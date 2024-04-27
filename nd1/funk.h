@@ -2,11 +2,20 @@
 #include <fstream>
 #include <iostream>
 #include <iomanip>
+#include <string>
 #include <vcclr.h>
 #include <map>
 
+const wchar_t visosraides[] = { L'a', L'à', L'b', L'è', L'd', L'e', L'æ', L'ë', L'f', L'g', L'h', L'i',
+L'á', L'y', L'j', L'k', L'l', L'm', L'n', L'o', L'p', L'r', L's', L'ð', L't', L'u', L'ø', L'û', L'v', L'z', L'þ' };
 
 struct eilerastis {
+	std::wstring eil;
+	size_t kiekraidziu = 0;
+	std::map<wchar_t, int> raides;
+};
+
+struct duomeilerastis {
 	std::wstring eil;
 	size_t kiekraidziu = 0;
 	std::map<wchar_t, int> raides;
@@ -349,5 +358,72 @@ void skaitytiDuomenis(eilerastis &m) {
 			}
 
 			}
+			i++;
 	}
+}
+void artaspats(eilerastis m, duomeilerastis n[]) {
+	std::wifstream duom("duom.txt");
+	int i = 0;
+	while (!duom.eof()) {
+		std::wstring buf = L"";
+		duom >> n[i].kiekraidziu;
+		while (buf != L"#endEil") {
+			n[i].eil += buf;
+			std::getline(duom, buf);
+		}
+		for (auto j: n[i].raides) {
+			duom >> j.second;
+		}
+		i++;
+
+	}
+}
+void initmap(std::map<wchar_t, int> &raides) {
+	for (auto raide : visosraides)
+		raides.insert(std::pair<wchar_t, int>(raide, 0));
+}
+void rastiarciausia(duomeilerastis n[], int dydis, eilerastis m, duomeilerastis arciausi[]) {
+		int skaicius = m.kiekraidziu;
+		bool taspats = false;
+		for (size_t i = 0; i < 3; ++i) {
+			arciausi[i].eil = L"";
+			arciausi[i].kiekraidziu = 0;
+			arciausi[i].raides.clear();
+		}
+
+		// Ieskokime arciausiu
+		for (int i = 0; i < dydis; ++i) {
+			if (m.eil == n[i].eil) {
+				taspats = true;
+			}
+			// Jei norimo skaiciaus nepasiekiame, arba turimas elementas jau yra tarp arciausiu, tesiame cikla
+			if (n[i].kiekraidziu >= skaicius || n[i].eil == L"" || n[i].raides.empty()) {
+				continue;
+			}
+
+			// Tikriname, ar si eilute yra arciausioje
+			int arciausioIndeksas = -1;
+			for (int j = 0; j < 3; ++j) {
+				if (arciausioIndeksas == -1 || arciausi[j].kiekraidziu > arciausi[arciausioIndeksas].kiekraidziu) {
+					arciausioIndeksas = j;
+				}
+			}
+
+			// Jei esama eilute turi maziau raidziu nei arciausiai, ja idedame
+			if (n[i].kiekraidziu > arciausi[arciausioIndeksas].kiekraidziu) {
+				arciausi[arciausioIndeksas] = n[i];
+			}
+		}
+
+		if (taspats != true) {
+			std::locale::global(std::locale("lt_LT.UTF-8"));
+			std::wofstream rez("duom.txt", std::ios::app);
+			rez << m.kiekraidziu << std::endl;
+			rez << m.eil << std::endl;
+			rez << "#endEil" << std::endl;
+			for (auto raide : visosraides)
+				rez << m.raides[raide] << " ";
+			rez << std::endl;
+		}
+	
 }
