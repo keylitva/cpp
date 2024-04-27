@@ -373,11 +373,10 @@ void artaspats(eilerastis m, duomeilerastis n[]) {
 		}
 		wchar_t raid;
 		int kiekis;
-		while (raid != L'end') {
+		int j = 0;
+		while (j != 31) {
 			duom >> raid >> kiekis;
 			m.raides[raid] = kiekis;
-			if (raid == L'ş')
-				raid = L'end';
 		}
 		i++;
 
