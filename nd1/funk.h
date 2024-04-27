@@ -6,8 +6,8 @@
 #include <vcclr.h>
 #include <map>
 
-const wchar_t visosraides[] = { L'a', L'à', L'b', L'è', L'd', L'e', L'æ', L'ë', L'f', L'g', L'h', L'i',
-L'á', L'y', L'j', L'k', L'l', L'm', L'n', L'o', L'p', L'r', L's', L'ğ', L't', L'u', L'ø', L'û', L'v', L'z', L'ş' };
+const wchar_t visosraides[] = { L'a', L'Ã ', L'b', L'Ã¨', L'd', L'e', L'Ã¦', L'Ã«', L'f', L'g', L'h', L'i',
+L'Ã¡', L'y', L'j', L'k', L'l', L'm', L'n', L'o', L'p', L'r', L's', L'Ã°', L't', L'u', L'Ã¸', L'Ã»', L'v', L'z', L'Ã¾' };
 
 struct eilerastis {
 	std::wstring eil;
@@ -46,14 +46,14 @@ void skaitytiDuomenis(eilerastis &m) {
 				m.raides[L'b'] = 1;
 			}
 		}
-		else if (c == L'à' || c == L'À') {
+		else if (c == L'Ã ' || c == L'Ã€') {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'à');
+			auto it = m.raides.find(L'Ã ');
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'à'] = 1;
+				m.raides[L'Ã '] = 1;
 			}
 		}
 		else if (c == L'c' || c == L'C') {
@@ -86,34 +86,34 @@ void skaitytiDuomenis(eilerastis &m) {
 				m.raides[L'e'] = 1;
 			}
 		}
-		else if (c == L'è' || c == L'È') {
+		else if (c == L'Ã¨' || c == L'Ãˆ') {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'è');
+			auto it = m.raides.find(L'Ã¨');
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'è'] = 1;
+				m.raides[L'Ã¨'] = 1;
 			}
 		}
-		else if (c == L'æ' || c == L'Æ') {
+		else if (c == L'Ã¦' || c == L'Ã†') {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'æ');
+			auto it = m.raides.find(L'Ã¦');
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'æ'] = 1;
+				m.raides[L'Ã¦'] = 1;
 			}
 		}
-		else if (c == L'ë' || c == L'Ë') {
+		else if (c == L'Ã«' || c == L'Ã‹') {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'ë');
+			auto it = m.raides.find(L'Ã«');
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'ë'] = 1;
+				m.raides[L'Ã«'] = 1;
 			}
 		}
 		else if (c == L'f' || c == L'F') {
@@ -148,14 +148,14 @@ void skaitytiDuomenis(eilerastis &m) {
 			}
 
 		}
-		else if (c == L'á' || c == L'Á') {
+		else if (c == L'Ã¡' || c == L'Ã') {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'á');
+			auto it = m.raides.find(L'Ã¡');
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'á'] = 1;
+				m.raides[L'Ã¡'] = 1;
 			}
 
 			}
@@ -270,14 +270,14 @@ void skaitytiDuomenis(eilerastis &m) {
 			}
 
 			}
-		else if (c == L'ğ' || c == L'Ğ') {
+		else if (c == L'Ã°' || c == L'Ã') {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'ğ');
+			auto it = m.raides.find(L'Ã°');
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'ğ'] = 1;
+				m.raides[L'Ã°'] = 1;
 			}
 
 			}
@@ -303,25 +303,25 @@ void skaitytiDuomenis(eilerastis &m) {
 			}
 
 			}
-		else if (c == L'ø' || c == L'Ø') {
+		else if (c == L'Ã¸' || c == L'Ã˜') {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'ø');
+			auto it = m.raides.find(L'Ã¸');
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'ø'] = 1;
+				m.raides[L'Ã¸'] = 1;
 			}
 
 			}
-		else if (c == L'û' || c == L'Û') {
+		else if (c == L'Ã»' || c == L'Ã›') {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'û');
+			auto it = m.raides.find(L'Ã»');
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'û'] = 1;
+				m.raides[L'Ã»'] = 1;
 			}
 
 			}
@@ -347,14 +347,14 @@ void skaitytiDuomenis(eilerastis &m) {
 			}
 
 			}
-		else if (c == L'ş' || c == L'Ş') {
+		else if (c == L'Ã¾' || c == L'Ã') {
 				m.kiekraidziu++;
-			auto it = m.raides.find(L'ş');
+			auto it = m.raides.find(L'Ã¾');
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'ş'] = 1;
+				m.raides[L'Ã¾'] = 1;
 			}
 
 			}
@@ -426,7 +426,7 @@ void rastiarciausia(duomeilerastis n[], int dydis, eilerastis m, duomeilerastis 
 			rez << m.eil << std::endl;
 			rez << "#endEil" << std::endl;
 			for (auto raide : visosraides)
-				rez << raide << " " << m.raides[raide] << " ";
+				rez << raide << m.raides[raide] << " ";
 			rez << std::endl;
 		}
 	
