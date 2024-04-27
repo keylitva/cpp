@@ -371,8 +371,13 @@ void artaspats(eilerastis m, duomeilerastis n[]) {
 			n[i].eil += buf;
 			std::getline(duom, buf);
 		}
-		for (auto j: n[i].raides) {
-			duom >> j.second;
+		wchar_t raid;
+		int kiekis;
+		while (raid != L'end') {
+			duom >> raid >> kiekis;
+			m.raides[raid] = kiekis;
+			if (raid == L'ş')
+				raid = L'end';
 		}
 		i++;
 
@@ -422,7 +427,7 @@ void rastiarciausia(duomeilerastis n[], int dydis, eilerastis m, duomeilerastis 
 			rez << m.eil << std::endl;
 			rez << "#endEil" << std::endl;
 			for (auto raide : visosraides)
-				rez << m.raides[raide] << " ";
+				rez << raide << " " << m.raides[raide] << " ";
 			rez << std::endl;
 		}
 	
