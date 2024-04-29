@@ -115,7 +115,6 @@ namespace nd1 {
 		duomeilerastis arciausias[3];
 		String^ managedString = richTextBox3->Text;
 		m.eil = marshal_as<std::wstring>(managedString);;
-		initmap(m.raides);
 		skaitytiDuomenis(m);
 		artaspats(m, n);
 		rastiarciausia(n, 200, m, arciausias);
