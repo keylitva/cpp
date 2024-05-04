@@ -115,7 +115,7 @@ void skaitytiDuomenis(eilerastis &m) {
 				it->second++;
 			}
 			else {
-				m.raides[L'ë'] = 1;
+				m.raides[L'ė'] = 1;
 			}
 		}
 		else if (c == L'f' || c == L'F') {
