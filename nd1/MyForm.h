@@ -82,6 +82,7 @@ namespace nd1 {
 			this->richTextBox1->Name = L"richTextBox1";
 			this->richTextBox1->Size = System::Drawing::Size(265, 317);
 			this->richTextBox1->TabIndex = 2;
+			this->richTextBox1->Font = gcnew System::Drawing::Font("Arial", 12);
 			this->richTextBox1->Text = L"";
 			// 
 			// richTextBox3
@@ -111,6 +112,7 @@ namespace nd1 {
 	
 	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
 		eilerastis m;
+		int maznr = 0;
 		duomeilerastis n[200];
 		duomeilerastis arciausias[3];
 		String^ managedString = richTextBox3->Text;
@@ -118,6 +120,9 @@ namespace nd1 {
 		skaitytiDuomenis(m);
 		artaspats(m, n);
 		rastiarciausia(n, 200, m, arciausias);
+		raiddiff(arciausias, m, maznr);
+		std::locale::global(std::locale("lt_LT.UTF-8"));
+		richTextBox1->Text = gcnew System::String(arciausias[maznr].eil.c_str());
 	}
 
 	private: System::Void richTextBox2_TextChanged(System::Object^ sender, System::EventArgs^ e) {

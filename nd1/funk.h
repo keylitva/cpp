@@ -8,11 +8,11 @@
 #include <codecvt>
 #include <map>
 
-const wchar_t visosraides[] = { L'a', L'ą', L'b', L'c', L'č', L'd', L'e', L'ę', L'ė', L'f', L'g', L'h', L'i',
-L'į', L'y', L'j', L'k', L'l', L'm', L'n', L'o', L'p', L'r', L's', L'š', L't', L'u', L'ų', L'ū', L'v', L'z', L'ž' };
+const wchar_t visosraides[] = { L'a', 261, L'b', L'c', 269, L'd', L'e', 281, 279, L'f', L'g', L'h', L'i',
+303, L'y', L'j', L'k', L'l', L'm', L'n', L'o', L'p', L'r', L's', 352, L't', L'u', 371, 363, L'v', L'z', 382};
 
-struct eilerastis {
-	std::wstring eil;
+class eilerastis {
+public: std::wstring eil;
 	size_t kiekraidziu = 0;
 	std::map<wchar_t, int> raides;
 };
@@ -38,14 +38,14 @@ void skaitytiDuomenis(eilerastis &m) {
 				m.raides[L'a'] = 1;
 			}
 		}
-		else if (c == L'ą' || c == L'Ą') {
+		else if (c == 261 || c == 260) {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'ą');
+			auto it = m.raides.find(261);
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'ą'] = 1;
+				m.raides[261] = 1;
 			}
 		}
 		else if (c == L'b' || c == L'B') {
@@ -68,14 +68,14 @@ void skaitytiDuomenis(eilerastis &m) {
 				m.raides[L'c'] = 1;
 			}
 		}
-		else if (c == L'č' || c == L'Č') {
+		else if (c == 269 || c == 268) {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'č');
+			auto it = m.raides.find(269);
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'č'] = 1;
+				m.raides[269] = 1;
 			}
 		}
 		else if (c == L'd' || c == L'D') {
@@ -98,24 +98,24 @@ void skaitytiDuomenis(eilerastis &m) {
 				m.raides[L'e'] = 1;
 			}
 		}
-		else if (c == L'ę' || c == L'Ę') {
+		else if (c == 281 || c == 280) {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'ę');
+			auto it = m.raides.find(281);
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'ę'] = 1;
+				m.raides[281] = 1;
 			}
 		}
-		else if (c == L'ė' || c == L'Ė') {
+		else if (c == 279 || c == 278) {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'ë');
+			auto it = m.raides.find(279);
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'ė'] = 1;
+				m.raides[279] = 1;
 			}
 		}
 		else if (c == L'f' || c == L'F') {
@@ -161,14 +161,14 @@ void skaitytiDuomenis(eilerastis &m) {
 			}
 
 			}
-		else if (c == L'į' || c == L'Į') {
+		else if (c == 303 || c == 302) {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'į');
+			auto it = m.raides.find(303);
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'į'] = 1;
+				m.raides[303] = 1;
 			}
 
 			}
@@ -283,14 +283,14 @@ void skaitytiDuomenis(eilerastis &m) {
 			}
 
 			}
-		else if (c == L'š' || c == L'Š') {
+		else if (c == 353 || c == 352) {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'š');
+			auto it = m.raides.find(353);
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'š'] = 1;
+				m.raides[353] = 1;
 			}
 
 			}
@@ -316,25 +316,25 @@ void skaitytiDuomenis(eilerastis &m) {
 			}
 
 			}
-		else if (c == L'ų' || c == L'Ų') {
+		else if (c == 371 || c == 370) {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'ų');
+			auto it = m.raides.find(371);
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'ų'] = 1;
+				m.raides[371] = 1;
 			}
 
 			}
-		else if (c == L'ū' || c == L'Ū') {
+		else if (c == 363 || c == 362) {
 			m.kiekraidziu++;
-			auto it = m.raides.find(L'ū');
+			auto it = m.raides.find(363);
 			if (it != m.raides.end()) {
 				it->second++;
 			}
 			else {
-				m.raides[L'ū'] = 1;
+				m.raides[363] = 1;
 			}
 
 			}
@@ -360,14 +360,14 @@ void skaitytiDuomenis(eilerastis &m) {
 			}
 
 			}
-		else if (c == L'ž' || c == L'Ž') {
+		else if (c == 382 || c == 381) {
 				m.kiekraidziu++;
-				auto it = m.raides.find(L'ž');
+				auto it = m.raides.find(382);
 				if (it != m.raides.end()) {
 					it->second++;
 				}
 				else {
-					m.raides[L'ž'] = 1;
+					m.raides[382] = 1;
 				}
 
 				}
@@ -377,8 +377,6 @@ void skaitytiDuomenis(eilerastis &m) {
 void artaspats(eilerastis m, duomeilerastis n[]) {
 	std::wifstream duom("duom.txt");
 	int i = 0;
-
-	
 		while (!duom.eof()) {
 			std::wstring buf = L"";
 			duom >> n[i].kiekraidziu;
@@ -387,13 +385,11 @@ void artaspats(eilerastis m, duomeilerastis n[]) {
 					n[i].eil += buf;
 					std::getline(duom, buf);
 				}
-				wchar_t raid;
 				int kiekis;
 				int j = 0;
-				while (j != 31) {
-					duom >> raid >> kiekis;
-					m.raides[raid] = kiekis;
-					j++;
+				for (auto raide : visosraides){
+					duom >> kiekis;
+					n[i].raides[raide] = kiekis;
 				}
 				i++;
 			}
@@ -405,36 +401,34 @@ void initmap(std::map<wchar_t, int> &raides) {
 		raides.insert(std::pair<wchar_t, int>(raide, 0));
 }
 void rastiarciausia(duomeilerastis n[], int dydis, eilerastis m, duomeilerastis arciausi[]) {
-	if (n[0].kiekraidziu == 0) {
+	if (n[2].kiekraidziu == 0) {
 		std::locale::global(std::locale("lt_LT.UTF-8"));
 		std::wofstream rez("duom.txt", std::ios::app);
 		rez << m.kiekraidziu << std::endl;
 		rez << m.eil << std::endl;
 		rez << "#endEil" << std::endl;
 		for (auto raide : visosraides)
-		rez << raide << " " << m.raides[raide] << " ";
+		rez  << m.raides[raide] << " ";
 		rez << std::endl;
 	}
 	else {
-		int skaicius = m.kiekraidziu;
+		size_t skaicius = m.kiekraidziu;
 		bool taspats = false;
 		for (size_t i = 0; i < 3; ++i) {
 			arciausi[i].eil = L"";
 			arciausi[i].kiekraidziu = 0;
 			arciausi[i].raides.clear();
 		}
-
-		// Ieskokime arciausiu
 		for (int i = 0; i < dydis; ++i) {
 			if (m.eil == n[i].eil) {
 				taspats = true;
 			}
-			// Jei norimo skaiciaus nepasiekiame, arba turimas elementas jau yra tarp arciausiu, tesiame cikla
+			
 			if (n[i].kiekraidziu >= skaicius || n[i].eil == L"" || n[i].raides.empty()) {
 				continue;
 			}
 
-			// Tikriname, ar si eilute yra arciausioje
+			
 			int arciausioIndeksas = -1;
 			for (int j = 0; j < 3; ++j) {
 				if (arciausioIndeksas == -1 || arciausi[j].kiekraidziu > arciausi[arciausioIndeksas].kiekraidziu) {
@@ -442,21 +436,43 @@ void rastiarciausia(duomeilerastis n[], int dydis, eilerastis m, duomeilerastis 
 				}
 			}
 
-			// Jei esama eilute turi maziau raidziu nei arciausiai, ja idedame
+			
 			if (n[i].kiekraidziu > arciausi[arciausioIndeksas].kiekraidziu) {
 				arciausi[arciausioIndeksas] = n[i];
 			}
 		}
 
 		if (taspats != true) {
+			std::locale::global(std::locale("lt_LT.UTF-8"));
 			std::wofstream rez("duom.txt", std::ios::app);
 			rez << m.kiekraidziu << std::endl;
 			rez << m.eil << std::endl;
 			rez << "#endEil" << std::endl;
 			for (auto raide : visosraides)
-				rez << raide << " " << m.raides[raide] << " ";
+				rez << m.raides[raide] << " ";
 			rez << std::endl;
 		}
 	}
 	
+}
+void raiddiff(duomeilerastis arciausias[], eilerastis m, int& maznr) {
+	int temp[3];
+	for (auto raide : visosraides) {
+		temp[0] += (arciausias[0].raides[raide] - m.raides[raide]);
+		temp[1] += (arciausias[1].raides[raide] - m.raides[raide]);
+		temp[2] += (arciausias[2].raides[raide] - m.raides[raide]);
+	}
+	int i = 0;
+	int tempid = 0;
+	while (i != 3) {
+		if (tempid == 0) {
+			tempid = temp[i];
+			maznr = i;
+		}
+		else if (temp[i] < tempid) {
+			tempid = temp[i];
+			maznr = i;
+		}
+		i++;
+	}
 }
