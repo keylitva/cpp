@@ -375,6 +375,7 @@ void skaitytiDuomenis(eilerastis &m) {
 	}
 }
 void artaspats(eilerastis m, duomeilerastis n[]) {
+	std::locale::global(std::locale("lt_LT.UTF-8"));
 	std::wifstream duom("duom.txt");
 	int i = 0;
 		while (!duom.eof()) {
@@ -382,7 +383,7 @@ void artaspats(eilerastis m, duomeilerastis n[]) {
 			duom >> n[i].kiekraidziu;
 			if (n[i].kiekraidziu != 0) {
 				while (buf != L"#endEil") {
-					n[i].eil += buf;
+					n[i].eil += (buf + L'\n');
 					std::getline(duom, buf);
 				}
 				int kiekis;
