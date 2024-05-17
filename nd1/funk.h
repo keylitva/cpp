@@ -21,6 +21,7 @@ struct duomeilerastis {
 	std::wstring eil;
 	size_t kiekraidziu = 0;
 	std::map<wchar_t, int> raides;
+	size_t diffrence = 99999;
 };
 
 void skaitytiDuomenis(eilerastis &m) {
@@ -401,7 +402,7 @@ void initmap(std::map<wchar_t, int> &raides) {
 	for (auto raide : visosraides)
 		raides.insert(std::pair<wchar_t, int>(raide, 0));
 }
-void rastiarciausia(duomeilerastis n[], int dydis, eilerastis m, duomeilerastis arciausi[]) {
+void rastiarciausia(duomeilerastis n[], int dydis, eilerastis m, duomeilerastis arciausias[]) {
 	if (n[2].kiekraidziu == 0) {
 		std::locale::global(std::locale("lt_LT.UTF-8"));
 		std::wofstream rez("duom.txt", std::ios::app);
@@ -409,41 +410,37 @@ void rastiarciausia(duomeilerastis n[], int dydis, eilerastis m, duomeilerastis 
 		rez << m.eil << std::endl;
 		rez << "#endEil" << std::endl;
 		for (auto raide : visosraides)
-		rez  << m.raides[raide] << " ";
+			rez << m.raides[raide] << " ";
 		rez << std::endl;
 	}
 	else {
-		size_t skaicius = m.kiekraidziu;
 		bool taspats = false;
+
 		for (size_t i = 0; i < 3; ++i) {
-			arciausi[i].eil = L"";
-			arciausi[i].kiekraidziu = 0;
-			arciausi[i].raides.clear();
+			arciausias[i].eil = L"";
+			arciausias[i].kiekraidziu = 0;
+			arciausias[i].raides.clear();
+			arciausias[i].diffrence = 999999;
 		}
+
 		for (int i = 0; i < dydis; ++i) {
-			if (m.eil == n[i].eil) {
+			int tmp = int(m.kiekraidziu - n[i].kiekraidziu);
+			int temp = abs(tmp);
+
+			if (m.raides == n[i].raides) {
 				taspats = true;
 			}
-			
-			if (n[i].kiekraidziu >= skaicius || n[i].eil == L"" || n[i].raides.empty()) {
-				continue;
-			}
 
-			
-			int arciausioIndeksas = -1;
 			for (int j = 0; j < 3; ++j) {
-				if (arciausioIndeksas == -1 || arciausi[j].kiekraidziu > arciausi[arciausioIndeksas].kiekraidziu) {
-					arciausioIndeksas = j;
+				if (temp < arciausias[j].diffrence) {
+					arciausias[j] = n[i];
+					arciausias[j].diffrence = temp;
+					break;
 				}
-			}
-
-			
-			if (n[i].kiekraidziu > arciausi[arciausioIndeksas].kiekraidziu) {
-				arciausi[arciausioIndeksas] = n[i];
 			}
 		}
 
-		if (taspats != true) {
+		if (!taspats) {
 			std::locale::global(std::locale("lt_LT.UTF-8"));
 			std::wofstream rez("duom.txt", std::ios::app);
 			rez << m.kiekraidziu << std::endl;
@@ -454,14 +451,16 @@ void rastiarciausia(duomeilerastis n[], int dydis, eilerastis m, duomeilerastis 
 			rez << std::endl;
 		}
 	}
-	
 }
 void raiddiff(duomeilerastis arciausias[], eilerastis m, int& maznr) {
 	int temp[3];
+	temp[0] = 0;
+	temp[1] = 0;
+	temp[2] = 0;
 	for (auto raide : visosraides) {
-		temp[0] += (arciausias[0].raides[raide] - m.raides[raide]);
-		temp[1] += (arciausias[1].raides[raide] - m.raides[raide]);
-		temp[2] += (arciausias[2].raides[raide] - m.raides[raide]);
+		temp[0] += abs(arciausias[0].raides[raide] - m.raides[raide]);
+		temp[1] += abs(arciausias[1].raides[raide] - m.raides[raide]);
+		temp[2] += abs(arciausias[2].raides[raide] - m.raides[raide]);
 	}
 	int i = 0;
 	int tempid = 0;
@@ -475,5 +474,25 @@ void raiddiff(duomeilerastis arciausias[], eilerastis m, int& maznr) {
 			maznr = i;
 		}
 		i++;
+	}
+}
+void duomrodimas(duomeilerastis arciausias[], int& maznr, std::wstring &ruodmenis, eilerastis m, std::wstring &ruodmenismain) {
+	ruodmenis = L"Iš viso raidžių: " + std::to_wstring(arciausias[maznr].kiekraidziu) + L'\n' + L"Raidžių pasiskirstimas: " + L'\n';
+	ruodmenismain = L"Iš viso raidžių: " + std::to_wstring(m.kiekraidziu) + L'\n' + L"Raidžių pasiskirstimas: " + L'\n';
+	int i = 0;
+	for (auto raide : visosraides) {
+		ruodmenis += raide;
+		ruodmenis += L" ";
+		ruodmenis += std::to_wstring(arciausias[maznr].raides[raide]);
+		ruodmenis += L" ";
+		ruodmenismain += raide;
+		ruodmenismain += L" ";
+		ruodmenismain += std::to_wstring(m.raides[raide]);
+		ruodmenismain += L" ";
+		i++;
+		if (i % 5 == 0) {
+			ruodmenis += L'\n';
+			ruodmenismain += L'\n';
+		}
 	}
 }
