@@ -3,6 +3,7 @@
 #include "funk.h"
 #include <string>
 #include <msclr/marshal_cppstd.h>
+#include "MyForm1.h"
 
 
 namespace nd1 {
@@ -45,6 +46,8 @@ namespace nd1 {
 	private: System::Windows::Forms::RichTextBox^ richTextBox3;
 	private: System::Windows::Forms::Label^ label1;
 	private: System::Windows::Forms::Label^ label2;
+	private: System::Windows::Forms::TextBox^ textBox1;
+	private: System::Windows::Forms::Button^ button2;
 
 
 
@@ -54,7 +57,7 @@ namespace nd1 {
 		/// <summary>
 		/// Required designer variable.
 		/// </summary>
-		System::ComponentModel::Container ^components;
+		System::ComponentModel::Container^ components;
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
@@ -68,11 +71,13 @@ namespace nd1 {
 			this->richTextBox3 = (gcnew System::Windows::Forms::RichTextBox());
 			this->label1 = (gcnew System::Windows::Forms::Label());
 			this->label2 = (gcnew System::Windows::Forms::Label());
+			this->textBox1 = (gcnew System::Windows::Forms::TextBox());
+			this->button2 = (gcnew System::Windows::Forms::Button());
 			this->SuspendLayout();
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(671, 433);
+			this->button1->Location = System::Drawing::Point(590, 417);
 			this->button1->Margin = System::Windows::Forms::Padding(4);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(100, 30);
@@ -85,10 +90,10 @@ namespace nd1 {
 			// 
 			this->richTextBox1->Font = (gcnew System::Drawing::Font(L"Times New Roman", 11.25F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(186)));
-			this->richTextBox1->Location = System::Drawing::Point(960, 50);
+			this->richTextBox1->Location = System::Drawing::Point(868, 53);
 			this->richTextBox1->Margin = System::Windows::Forms::Padding(4);
 			this->richTextBox1->Name = L"richTextBox1";
-			this->richTextBox1->Size = System::Drawing::Size(465, 413);
+			this->richTextBox1->Size = System::Drawing::Size(381, 413);
 			this->richTextBox1->TabIndex = 2;
 			this->richTextBox1->Text = L"";
 			// 
@@ -99,7 +104,7 @@ namespace nd1 {
 			this->richTextBox3->Location = System::Drawing::Point(16, 50);
 			this->richTextBox3->Margin = System::Windows::Forms::Padding(4);
 			this->richTextBox3->Name = L"richTextBox3";
-			this->richTextBox3->Size = System::Drawing::Size(460, 413);
+			this->richTextBox3->Size = System::Drawing::Size(390, 394);
 			this->richTextBox3->TabIndex = 3;
 			this->richTextBox3->Text = L"";
 			this->richTextBox3->TextChanged += gcnew System::EventHandler(this, &MyForm::richTextBox2_TextChanged_1);
@@ -107,9 +112,9 @@ namespace nd1 {
 			// label1
 			// 
 			this->label1->AutoSize = true;
-			this->label1->Location = System::Drawing::Point(789, 53);
+			this->label1->Location = System::Drawing::Point(664, 53);
 			this->label1->Name = L"label1";
-			this->label1->Size = System::Drawing::Size(155, 21);
+			this->label1->Size = System::Drawing::Size(197, 26);
 			this->label1->TabIndex = 4;
 			this->label1->Text = L"Laukiama duomenu";
 			this->label1->Click += gcnew System::EventHandler(this, &MyForm::label1_Click);
@@ -117,18 +122,38 @@ namespace nd1 {
 			// label2
 			// 
 			this->label2->AutoSize = true;
-			this->label2->Location = System::Drawing::Point(483, 53);
+			this->label2->Location = System::Drawing::Point(413, 53);
 			this->label2->Name = L"label2";
-			this->label2->Size = System::Drawing::Size(155, 21);
+			this->label2->Size = System::Drawing::Size(197, 26);
 			this->label2->TabIndex = 5;
 			this->label2->Text = L"Laukiama duomenu";
 			// 
+			// textBox1
+			// 
+			this->textBox1->Location = System::Drawing::Point(50, 467);
+			this->textBox1->Name = L"textBox1";
+			this->textBox1->Size = System::Drawing::Size(321, 33);
+			this->textBox1->TabIndex = 6;
+			this->textBox1->TextChanged += gcnew System::EventHandler(this, &MyForm::textBox1_TextChanged);
+			// 
+			// button2
+			// 
+			this->button2->Location = System::Drawing::Point(590, 371);
+			this->button2->Name = L"button2";
+			this->button2->Size = System::Drawing::Size(100, 39);
+			this->button2->TabIndex = 7;
+			this->button2->Text = L"Grizti";
+			this->button2->UseVisualStyleBackColor = true;
+			this->button2->Click += gcnew System::EventHandler(this, &MyForm::button2_Click);
+			// 
 			// MyForm
 			// 
-			this->AutoScaleDimensions = System::Drawing::SizeF(10, 21);
+			this->AutoScaleDimensions = System::Drawing::SizeF(13, 26);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
 			this->BackColor = System::Drawing::SystemColors::WindowFrame;
-			this->ClientSize = System::Drawing::Size(1456, 485);
+			this->ClientSize = System::Drawing::Size(1262, 533);
+			this->Controls->Add(this->button2);
+			this->Controls->Add(this->textBox1);
 			this->Controls->Add(this->label2);
 			this->Controls->Add(this->label1);
 			this->Controls->Add(this->richTextBox3);
@@ -144,18 +169,20 @@ namespace nd1 {
 
 		}
 #pragma endregion
-	
+
 	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
 		eilerastis m;
 		int maznr = 0;
-		std::wstring ruodmenis, ruodmenismain;
+		std::wstring ruodmenis, ruodmenismain, auth;
 		duomeilerastis n[200];
 		duomeilerastis arciausias[3];
 		String^ managedString = richTextBox3->Text;
+		String^ autorius = textBox1->Text;
 		String^ str;
 		String^ raidduom;
 		String^ raidduommain;
-		m.eil = marshal_as<std::wstring>(managedString);;
+		m.seteil(marshal_as<std::wstring>(managedString));
+		m.setauth(marshal_as<std::wstring>(autorius));
 		skaitytiDuomenis(m);
 		artaspats(m, n);
 		rastiarciausia(n, 200, m, arciausias);
@@ -176,5 +203,13 @@ namespace nd1 {
 	}
 	private: System::Void label1_Click(System::Object^ sender, System::EventArgs^ e) {
 	}
-};
+	private: System::Void textBox1_TextChanged(System::Object^ sender, System::EventArgs^ e) {
+	}
+	private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
+		MyForm1^ pagrindine = gcnew MyForm1();
+		this->Hide();
+		pagrindine->ShowDialog();
+		this->Show();
+	}
+	};
 }

@@ -1,71 +1,813 @@
-228
-Spindi tėviškės žiema,
-Užsūpuota, supustyta.
-Eglių kuorais apsupta,
-Aukso tiltais nusagstyta.
-Saulė bėga per pusnis,
-Kiekvienoj pėdoj — po rožę.
-Gulbėm plazdančiom baltom
-Už eglyno pūgos ošia.
-Rogėmislnučiuoš žiema
-nuo didžiulio sniego kalno.
-Mėlynu sparnu naktis
-palytės tau...
+361
+TROŠKIMAI
+Ko gi trokšti, nesoti dvasia?
+Paslaptingais sparnais kur lakioji?
+Praeities vėl sapnai ar gražioji
+Tau jaunystė vaidinas slapčia?
+O nesoti! vilnim įstabia
+Tu kas dieną krūtinę kilnoji!
+Nenutildo tavęs nei ramioji
+Sidabrinė žvaigždė vakare!
+Tavo norams mažai visados;
+Negana valandos dabartinės;
+Gaila tau vakarykščios dienos;
+Gaila tau praeities net kančios!..
+Tartum marės – troškimai krūtinės
+Vis siūbuoja, siūbuot nenustos. 
 #endEil
-22 0 3 0 2 5 8 1 9 0 8 0 21 0 5 2 7 12 7 13 18 13 5 20 0 13 19 1 2 2 1 6 
-201
-Paukščiuko gimtinę
-Lizdu vadini,
-žuvytės gimtinė —
-Žaliam vandeny.
-
-Žvėrelį vilioja
-Miškai ar kalva...
-
-Tau šneka
-Gimtoji šalis
-Lietuva:
-
-— Aš upėm, upeliais
-Žydrai sujuosta,
-Man kojas skalauja
-Jūružės puta.
-
-Čia, mano pastogėj,
-Miškai ir namai,
-Ir miestai...
+Maironis
+54 1 5 0 3 10 14 2 7 0 7 0 50 1 2 6 14 10 8 26 22 7 19 32 0 26 11 0 4 12 0 4 
+890
+VAKARAS
+Ant ežero Keturių Kantonų
+Ežero skaisčios bangos liūliavo
+Žaliu smaragdu;
+Laivą be irklo varė, lingavo
+Vėsos dvelkimu.
+Saulė už Alpių leidos sustingus;
+Varpai Liucernos
+Dievui aukojo darbus vargingus
+Žmogaus ir gamtos.
+Medžių ant saulės kepintas lapas
+Nuspindo rasa;
+Rožių iš kalnų papūtė kvapas
+Skania sveikata.
+Audžiau nurimęs aukso svajones
+Aušros spinduliais;
+Lėkė jos, skrido, pilnos malonės,
+Padangių keliais.
+Vedė jas paukščių kelias žvaigždėtas,
+Lydėjo širdis
+Į tolimąsias, į numylėtas
+Tėvelių šalis.
+Kiek atminimų-atsitikimų,
+Gyvų kitados,
+Vienas už kito brėško ir švito
+Anapus ribos!
+Ten, kur palangėms stiepias sužiurę
+Žemčiūgų žiedai,
+Kur raudonmargę kreipia kepurę
+Jurginų pulkai.
+Ten, kur sesutės rūta dabina
+Kasas nuo mažens,
+Kur juodbėrėlį brolis augina
+Balnot ant rudens,
+Ten, kur Dubysa mėlyna juosta
+Banguoja plati!..
+Ko, ašarėle, ko tu per skruostą
+Kaip perlas riedi?
+Ten tai prabėgo mano brangiausi
+Jaunystės laikai,
+Ir po tiek metų pats savęs klausi:
+Tai vien tik sapnai?
+Kiek atminimų-atsitikimų,
+Gyvų kitados,
+Vienas už kito brėško ir švito
+Anapus ribos! 
 #endEil
-31 0 0 0 2 4 6 1 6 0 4 0 28 1 3 7 8 9 11 9 7 5 6 10 0 10 13 0 1 7 1 5 
-205
-Pipiriukas vaikas štai
-tėvui sako aiškiai:
-— Pasakyk man, kas gerai,—
-kas blogai, paaiškink.
-
-Viską pasakau vaikam,
-tad manęs klausykit! —
-Ką atsakė tėtis jam,
-knygoj šioj skaitykit.
-
-— Jei audra —braškės stogai,
-jei — ledai, griaustinis,
-vaikščioti tada blogai,
-tai...
+Maironis
+110 3 15 1 3 24 41 5 23 0 20 0 98 3 7 10 47 36 22 48 49 27 47 82 0 45 52 18 4 24 0 16 
+569
+NUTRŪKO – NESUMEGSI
+Nešu tau kartą paskutinį
+Kančios ir apmaudo eiles!
+Ne aš tą sudrumsčiau šaltinį,
+Kurs pynė tau dainų gėles.
+Jos, skausmo valandoj pradėtos,
+Gražybių perlais nežibės;
+Krauju ir ašara dėmėtos,
+Tau nepridės tuščios garbės.
+Ne mano kaltė: veidmainingai
+Ne aš tau priesaikas dariau!
+Ne aš nuvokiau sumaningai,
+Kad dviem patikus bus gudriau.
+O, visą širdį, visą sielą
+Aš tau aukodavau kilniai!..
+Tu auką, širdžiai vakar mielą,
+Šiandieną žaislu išmainei...
+Kad bentgi žaislas būtų švietęs
+Skaistybe mirgančios žvaigždės!
+O, pasidžiauk! Mūsų pilietės
+Ne jo slapčia tau pavydės.
+Širdis krūtinėje man plyšta,
+Bet žaist jausmais aš negaliu...
+Sudieu! Kas buvo – nebegrįžta!
+Ir mums nebeit vienu keliu!.. 
 #endEil
-39 2 3 0 1 4 4 1 4 0 6 0 32 0 4 5 22 4 4 5 7 5 5 17 0 14 6 0 0 5 0 0 
-190
-Pavasario saulė prašvito meiliai
-Ir juokiasi, širdį vilioja;
-Iškilo į dangų aukštai vieversiai,
-Čirena, sparneliais plasnoja.
-
-Išaušo! Išaušo! Vėjelis laukų
-Bučiuoja, gaivina krūtinę;
-Pabiro pasklido žiedai ant lankų
-Vainikų eilė... 
+Maironis
+74 8 11 0 5 22 35 1 13 0 12 0 67 4 5 6 22 16 17 34 17 13 24 47 0 28 41 4 4 13 0 10 
+544
+PASKUTINIS AKORDAS
+Vis tai buvo...
+Bet jau žuvo.
+Vien tik giesmėje paliko!
+Daug mylėta,
+Daug kentėta,
+Ne dėl vystančio vainiko
+Skausmo valandoj pradėta.
+Jei tau liūdna bus kada
+Ar ilgėsis ko širdis,
+Atsivėrusia žaizda
+Atsilieps tau praeitis,
+Atsiskleisk šias eilutes:
+Daug sau artimo atrasi
+Ir už drauges-sesutes
+Tuomet jas giliau suprasi...
+Rasit, tuomet tau širdis
+Pasakys, kad vien tik jis
+Taip kilniai tave mylėjo!..
+Tu, jo sielai svetima,
+Meilę lošei žaisdama,
+Ją prisiekdama ant vėjo!..
+Ir už ką ją neseniai
+Lengva širdžia išmainei?
+Kas buvo,
+Jau žuvo,
+Sugrįžti negali!
+Tik skausmo žaizda
+Prašneks gal kada,
+Primindama brangiąją šalį,
+Kuri jau sugrįžti negali!..
+Negali, negali!..
 #endEil
-29 0 2 0 2 4 8 1 3 0 2 0 34 2 0 5 8 11 1 9 11 6 9 9 0 4 8 4 1 8 0 1 
-527
+Maironis
+78 5 5 0 1 20 33 1 9 0 16 0 72 3 4 14 23 22 15 22 19 11 22 47 0 34 32 0 1 15 2 10 
+534
+DIENŲ SIELVARTAI
+Nežadinki laimingo, jei kada sapnuoja
+Užburtas pasakas ir amžinas dausas,
+Kai stygos virpančios jo sielai sudainuoja
+Ar rūta kvepiančias prisimena kasas.
+Ką duosi, elgeta, jo sielai nemirtingai
+Už Dievą amžiną, jį žemei sugrąžinęs?
+Gal leisi svetimu pasidalint duosningai,
+Su replėmis buržujo klėtį atrakinęs?
+Vargų našta ir veidas prakaituotas...
+Kad kūno alkanus pasotintų nasrus?
+Paskui gi kirminams karste pakeltų puotas
+Protingo tvarinio likimas per žiaurus?
+O, neišmanėli, kurs, dievindamas protą,
+Įžvelgti negali skaidrios širdies troškimo,
+Bent to nepavydėk, jei kuomet sužalota
+Dausų aukštybėse ieškos užsimiršimo!
+#endEil
+Maironis
+68 5 4 0 2 17 32 2 5 0 12 0 69 3 3 8 25 17 17 32 27 16 28 50 0 28 27 5 2 11 0 12 
+546
+SUNKU GYVENTI
+Sunku gyventi žmogui ant svieto;
+Visur tik vargas, nelaimės vienos;
+Nuo nuliūdimo, skaudaus ir kieto,
+Tulže apkarto gražiausios dienos.
+Lapus nuo medžių rudenio vėjas
+Dar taip neblaško žiauriai į šalį,
+Kaip daužo vargšą skausmas užėjęs,
+Kad žmogus vietos rasti negali.
+Lopšy mes verkiam, saulę išvydę;
+Verkiame, meilės pančius pažinę;
+Verkiam, nuo kelio tiesaus nuklydę;
+Verkiame, karstą sau prisiminę.
+Veltui, nugręžęs akis atgali,
+Tarp atminimų ieškai ramumo;
+Nieks nuraminti tavęs negali
+Nei išmatuoti širdies gilumo.
+O Dieve didis ir Tėve brangus!
+Pastiprink žmogų, silpną ir menką,
+Taip sutvarkytą, kad vien tik Dangus
+Jo begaliniams norams užtenka.
+#endEil
+Maironis
+57 5 3 0 1 16 36 9 5 0 16 0 68 2 6 3 26 18 24 35 25 13 27 43 0 28 36 3 1 20 0 12 
+247
+PRIEŠ ALTORIŲ
+Atsiklaupęs prieš altorių,
+Prieš Švenčiausį pagarboj,
+Nuraminti širdį noriu
+Dievo amžinoj globoj.
+Bet tos mintys palaidūnės,
+Išsiblaškiusios keliais
+Žemės, amžinos klajūnės,
+Ar kada nurimti leis?..
+„Mea culpa!“ į krūtinę
+Nusižeminęs mušuos, –
+Spindi siela diemantinė,
+Spindi ašarų lašuos.
+#endEil
+Maironis
+25 0 4 1 1 7 13 3 4 0 2 0 35 3 1 4 6 12 10 17 13 9 13 21 0 10 11 3 3 2 0 4 
+657
+MARUOS GIESMĖ
+Marija, Marija,
+Skaisčiausia lelija,
+Tu švieti aukštai ant Dangaus!
+Palengvink vergiją,
+Pagelbėk žmoniją,
+Ją gelbėk nuo priešo baisaus!
+Mes, klystantys žmonės,
+Maldaujam malonės;
+Marija, maldų neatmesk!
+Tarp verkiančių marių
+Šių žemiškų karių
+Nupuolančius stiprink ir vesk!
+Ir kūno silpnybė,
+Ir žemės puikybė,
+Ir pragaro juoda dvasia
+Į prapultį stumia
+Žmonijos daugumą
+Ir žudo galybe tamsia.
+Kaip upės bėgimas
+Taip mus įpratimas
+Kas kartą vis traukia žemiaus;
+Vargai kasdieniniai
+Kaip pančiai gelžiniai
+Mus rišti kada bepaliaus?
+Silpni, nusiminę
+Tavęsp paskutinę
+Tematome viltį tiktai;
+Tu savo malone
+Šiai žemės karionei
+Palengvinti galią žinai!
+Marija, Marija,
+Skaisčiausia lelija,
+Dangaus karaliene šviesi!
+Užstok prieš Aukščiausį
+Tu žmogų menkiausį!
+Taip daugel pas Dievą gali! 
+#endEil
+Maironis
+95 7 8 0 6 12 34 3 11 0 18 0 89 6 5 13 29 25 34 33 19 25 29 48 0 29 35 7 1 14 0 12 
+184
+KAIP ŽYDĖJIMAS VYŠNIOS
+Mūsų dienos – kaip šventė,
+Kaip žydėjimas vyšnios,–
+Tai skubėkim gyventi,
+Nes prabėgs – nebegrįš jos!
+Tai skubėkime džiaugtis!–
+Vai, prabėgs – nebegrįš jos!
+Mūsų dienos – kaip paukščiai,
+Kaip žydėjimas vyšnios.
+#endEil
+Salomėja Nėris
+16 0 6 0 1 6 10 0 8 0 6 0 23 2 7 5 10 0 7 10 7 8 4 18 0 5 4 2 2 6 0 4 
+194
+RUDENIO ARIMUOS
+Žarsto baltą smėlį
+Širvinta nurimus. –
+Rymo ramunėlė
+Rudenio arimuos.
+Viesulai padaužos
+Jau sparnus pakėlę, –
+Tai blaškys ir laužys
+Lauko ramunėlę.
+Kam viena likai tu
+Rudenio arimuos? –
+Akmenėlius skaito
+Širvinta nurimus. 
+#endEil
+Salomėja Nėris
+24 1 2 0 0 4 6 2 6 0 0 0 21 1 3 1 7 11 11 12 11 3 16 15 0 7 20 0 0 4 0 3 
+361
+TROŠKIMAI 
+
+Ko gi trokšti, nesoti dvasia?
+Paslaptingais sparnais kur lakioji?
+Praeities vėl sapnai ar gražioji
+Tau jaunystė vaidinas slapčia?
+
+O nesoti! vilnim įstabia
+Tu kas dieną krūtinę kilnoji!
+Nenutildo tavęs nei ramioji 
+Sidabrinė žvaigždė vakare!
+
+Tavo norams mažai visados;
+Negana valandos dabartinės;
+Gaila tau vakarykščios dienos;
+
+Gaila tau praeities net kančios!..
+Tartum marės – troškimai krūtinės
+Vis siūbuoja, siūbuot nenustos.
+#endEil
+Maironis
+54 1 5 0 3 10 14 2 7 0 7 0 50 1 2 6 14 10 8 26 22 7 19 32 0 26 11 0 4 12 0 4 
+347
+RUDENIO VIEŠKELIU
+Kojom pamėlusiom vieškelio gruodas. –
+Nukrankė varnos, vakaro lydimos...
+O kas našlaitei kelią parodys,
+Kur ta ugnelė gimtojo židinio?
+Žvarbūs ir vėjuoti debesys rausta.
+Kraupūs vaiduokliai – blaškomi gluosniai.
+Lietūs ir ašaros veidą nupraus tau,
+Pamotė vėtra plaukus nuglostys.
+Kam tu išklydai rudenio vieškeliu?
+Ar svetima tau duona pakarto?
+Kur ta ugnelė, kur tavo ieškoma?
+Baras, tik baras vėtra už vartų. – 
+#endEil
+Maironis
+43 2 5 0 0 11 18 0 8 0 6 0 33 0 5 3 21 16 10 13 26 7 24 21 0 19 27 1 3 14 0 3 
+246
+SŪNUS PALAIDŪNAS
+Nuraudęs beržynas,
+Alėjos klevų. –
+Ilgu be tėvynės,
+Nyku be savų!
+Ir šuntakiais, liūnais,
+Tamsiais pagiriais
+Sūnus palaidūnas
+Į sodžių pareis. –
+Tą vakarą kartų
+Šuva gailiai staugs, –
+Prie užkilų vartų
+Mama nebelauks. –
+Ieškosi mamytės. –
+Ji smėly miegos. –
+Ją šauksi, prikritęs
+Prie žemės nuogos. 
+#endEil
+Solomeja Neris
+31 3 4 0 0 4 12 2 6 0 6 0 28 1 5 3 10 10 8 12 6 7 12 29 0 9 13 6 5 6 0 4 
+305
+ANKSTI RYTĄ
+Anksti rytą parašyta
+Daug naujų skambių vardų –
+Versiu knygą neskaitytą
+Nuo rytų lig vakarų.
+Žemė kryžkelėm žegnojas –
+Ji keleiviam be sparnų
+Pavergė dulkėtas kojas.
+Aš su saule ateinu.
+Anksti rytą baltos laumės
+Laimę lėmė man jaunai –
+Ir išbūrė, ir nulėmė
+Jauna būti amžinai.
+Saulė žeria anksti rytą
+Daug auksinių valandų.
+Rytą auksu parašytą
+Savo vardą aš randu. 
+#endEil
+Solomeja Neris
+46 9 5 0 0 7 12 1 11 0 6 0 23 0 11 6 15 12 10 19 5 4 20 19 0 18 18 8 2 8 0 5 
+305
+AU JAUNAM
+Sužydėjo pievų gėlės
+Lig vienai,–
+Sužydėjo visos gėlės
+Man jaunai.
+Aš surinksiu lauko žiedus
+Lig vienam,–
+Aš surinksiu lauko žiedus
+Tau manam.
+Plaukia, plaukia baltos burės
+Per marias,
+Mano dainą neša vėjai
+Per girias.
+Už tų marių kyla bokštai
+Ateities.–
+Šviesūs šviesūs tavo rūmai –
+Be nakties.
+Skamba vasaros auksinės
+Tau jaunam,
+Skamba, skamba mano dainos
+Tau vienam! 
+#endEil
+Solomeja Neris
+50 1 7 0 0 6 15 0 9 0 5 0 32 0 3 6 13 10 15 17 12 5 10 30 0 10 22 3 3 10 0 5 
+427
+VIENUMA
+Tavo namas, tavo kraštas–
+Miško sutema.
+Tavo žingsnių aidi aidas
+Amžių glūduma.
+Mano languose vijokliai
+Kalbas su naktim.
+Atėjai žalčiais apjuostas,
+Su žaliom akim.
+Atėjai tu ne iš saulės,
+Su juoku nakties.
+Šaltos lūpos, žalias žvilgis –
+Praitašas mirties.
+Kalnuose žaibai vyniojas
+Mėlynais žalčiais.
+Kalnuose gaisrai plasnoja
+Alkanais sparnais.
+Kalnuose...
+Tyli ir lauki
+Žodžio nebylaus.
+Balto sfinkso šaltos akys
+Nieko nebeklaus.
+Tu palik čia, kur vijokliai
+Saugoja naktis.
+Mane kalne, baltam lauže,
+Saulė pasitiks. 
+#endEil
+Solomeja Neris
+75 0 6 0 3 4 16 0 5 1 6 0 50 0 5 9 23 30 14 24 25 7 7 44 0 21 23 2 2 8 0 11 
+408
+VAKARO SMUIKAS
+Skundžiasi smuikas – ašaros žydi.
+Ilgesiu virpa valso aidai:
+„Kai mylimasis namo palydi,
+Širdis plasnoja, dega veidai".
+Supasi žvaigždės plačioj padangėj,
+Supasi lapai mėnesienoj.
+Koks žiedas skečias jaunoj krūtinėj?
+Koks aidas virpa tavo dainoj?
+Mirtis – gyvybė, ašaros – džiaugsmas.
+Visur šešėliai kloja takus.
+Tik tavo dainos – mano pasaulis,
+Tik tavo akys – mano dangus.
+Vakaro smuiko mylimos dainos
+Sapnais sūpuoja ilgas naktis,
+Kad nenutiltų, kad nenumirtų,
+Kol mano ryto saulė prašvis. 
+#endEil
+Solomeja Neris
+64 0 1 0 2 18 10 0 7 0 8 0 49 0 8 10 22 15 15 21 27 13 13 46 0 13 17 2 2 13 0 6 
+602
+PAVASARIO SVAIGULYS
+Tau pirmą pavasario dainą aukoju.
+Tau žiedus žibučių sudėsiu po kojų.–
+Tik skriskim kartu su pavasario vėju,
+Su jaunu kvapu sprogstančiųjų alėjų.
+Tu – aras galingas, aš – gulbė baltkrūtė.
+Mums tolimos erdvės, mums marią saulutė.
+Ilgaisiais sparnais mes žvaigždynus apjuosim,
+Ten dangišką sapną abudu sapnuosim.
+Kalnų mėlynųjų viršūnės išbalę
+Palaimins mūs sapną, užburs mūsų galią.
+O jei tu į žemę sugrįžt panorėsi –
+Aš tyliai numirsiu alyvų pavėsy.
+Kur gėlynai žydi – ten ir aš.
+Kur drugeliai žaidžia – ten ir aš.
+Kur einu – margi drugeliai mane lydi.
+Kur sustoju – man lelijos baltos žydi.
+Mano mintys, mano svajos – tai vis tu.
+Mano dainos, mano sapnas – tai vis tu.
+Plasta žvaigždės, virpa saulė prie tavęs.
+Kas mane į tavo rūmus benuves? 
+#endEil
+Solomeja Neris
+78 7 8 0 2 15 17 3 14 0 15 0 61 3 11 12 15 24 27 32 23 19 29 60 0 26 47 10 5 19 0 13 
+251
+ŽVAIGŽDĖ – JAUNYSTĖ
+Vieną akimirką mano jaunystė,
+Lyg žaibas jaunas –
+Širdį ugniniais sparnais suvystė,
+Užliejo kraują.
+Ir mano dienos – žėrinčios ašaros
+Laumių akyse,–
+Ir jų kaip vėjų – vėjų pavasario
+Nesuvaikysi!
+Ir nebijau aš girioj paklysti,
+Jūroj paskęsti,–
+Nes man žadėjo žvaigždė jaunystė
+Niekad negesti. 
+#endEil
+Solomeja Neris
+32 3 2 0 1 6 10 1 10 0 6 0 30 1 8 14 9 4 5 18 10 5 12 22 0 7 11 4 1 8 0 8 
+184
+KAIP ŽYDĖJIMAS VYŠNIOS
+Mūsų dienos – kaip šventė,
+Kaip žydėjimas vyšnios,–
+Tai skubėkim gyventi,
+Nes prabėgs – nebegrįš jos!
+Tai skubėkime džiaugtis!–
+Vai, prabėgs – nebegrįš jos!
+Mūsų dienos – kaip paukščiai,
+Kaip žydėjimas vyšnios. 
+#endEil
+Solomeja Neris
+16 0 6 0 1 6 10 0 8 0 6 0 23 2 7 5 10 0 7 10 7 8 4 18 0 5 4 2 2 6 0 4 
+473
+.GYVENIMO GIESMĖ
+Gyvenimas mano – vėjas palaidas!
+Kaip sakalas skrieja per tyrus laukus.
+Gyvenimas mano – pavasario aidas.
+Gyvenimas mano – tai sapnas klaikus.
+Aš myliu gyvenimą – jauną, ugningą,
+Kaip myli pavasarį lauko gėlė!
+Aš myliu gyvenimo džiaugsmą aistringą,–
+Stipriai – kaip jaunystė temoka mylėt.
+O žeme, o motina mano brangioji!
+Mielai tu puošiesi žiedais ir krauju.–
+Jei burtus tavuosius pakeistų man rojum,
+Tai būtų ilgu man, ilgu man be jų!
+Aš myliu tave, gaivalingas pasauli!
+Galbūt kaip žvėris tu mane sudraskysi?–
+Vis tiek – aš ir mirsiu šypsodamos saulei,
+Ir saulė degs mano akyse! 
+#endEil
+Solomeja Neris
+68 5 5 0 0 7 24 0 8 0 19 0 56 1 16 9 16 19 29 24 19 14 17 41 0 18 29 3 2 14 0 4 
+224
+JUOKIS, GYVENIME!
+O juokis, gyvenime, juokis
+Pajaco juoku!
+Tegul mano akys nemato,
+Kas juoda, klaiku...
+Kur bus ta vieta, nežinau aš,
+Ir tu nežinai,–
+Kai trūks tavo juoko kaskada
+Ir dings amžinai.
+Bus gaila dienų man auksinių,
+Sidabro naktų,–
+Ir meilės, kur supo, svaigino
+Prie jūros krantų!
+#endEil
+Solomeja Neris
+28 0 3 1 0 5 12 0 1 0 6 0 26 0 3 8 18 4 7 16 16 3 10 16 0 9 17 4 2 5 0 3 
+333
+BE BAŽNYČIOS
+Be bažnyčios, be altorių,
+Be sumainymo žiedų...
+Žirgai skrenda, kiek tik nori,–
+Skrendam, lekiam vienu du!
+Miško vėjas plaukus glosto.
+Tolimi žmonių balsai.
+Iš padangių – žvaigždžių sosto
+Štai – mus laimina jisai!
+Jis jdėjo žmogui širdį
+Su troškimais neramiais,
+Vasaros vynu nugirdė,–
+Jis ir nuodėmes atleis!
+Be bažnyčios, be altorių...
+Žirgai skrenda žvengdami,–
+Skrenda, lekia mūsų norai –
+Nesulaikomi – jauni!
+#endEil
+Solomeja Neris
+35 0 10 0 3 13 20 0 4 0 8 0 47 1 5 7 13 11 16 21 21 2 16 27 0 9 13 7 1 6 0 12 
+422
+PABUČIAVIMAS
+Pabučiavimas tavo buvo karštas ir trumpas,
+Ir kaip žaibas staigus, ir svaigus kaip naktis –
+O galinga pagunda!–Ir šventieji suklumpa...
+Pabučiavimas tavo – pavogta kibirkštis.
+Negaliu aš pamiršti tų įkaitusių lūpų –
+Jos išdegino žymę lig širdies gilumos!
+Ir beprotišku svaiguliu mintį užsupo –
+Ji kaip vergė prie tavęs dieną naktį rymos.
+Ne gyvatė įkando – karštos lūpos bučiavo!
+Ligi kaulų nusmilko šiurpulinga šalna –
+Negaliu aš pamiršti... Nes žinau, kad ir tavo
+Visos mintys ir aistros – bendro laužo liepsna!
+#endEil
+Solomeja Neris
+53 1 9 0 4 7 14 2 2 0 16 0 58 4 4 3 16 16 13 20 21 19 21 31 0 22 26 4 2 16 0 5 
+184
+KAIP MYLIMOJO LAIŠKAS
+Baltais balandžiais atlekia,
+Juodais varnais išvyksta
+Tos mano dienos, naktys tos,
+Apvildamos jaunystą.
+Rytojus mano tolimas,–
+Nežinomas, neaiškus,–
+Taip laukiamas, taip norimas,–
+Kaip mylimojo laiškas.
+#endEil
+Solomeja Neris
+32 1 2 0 0 4 4 0 0 0 0 0 22 0 6 5 9 10 11 11 15 5 3 19 0 11 5 0 0 3 0 2 
+317
+TOKIOS TOLIMOS
+Tokios tolimos, tokios svetimos –
+Vėjo supamos, vėjo nešamos –
+Lyg ne mano jos, negrąžinamos,
+Tyliai mirštančios –
+dienos vasaros!
+Jūra skundžiasi, jūra barasi,–
+Bangos vejasi, bangos taškosi:
+Svetima esi, tolima esi,–
+Nenutildysi –
+širdgėla balsi!
+Ašarų maldos, mylimos gaidos
+Man širdis raudos.– Niekad niekados.
+Niekad niekados lūpos nekartos
+Laimės valandos –
+skausmo sukaltos!
+#endEil
+Solomeja Neris
+37 1 4 0 1 13 15 0 4 0 6 0 34 0 4 6 12 14 16 19 36 2 11 43 0 14 6 1 3 7 0 2 
+358
+BE TĖVIŠKĖS
+Be tėviškės, be motinos,
+Be jokios ateities,–
+Net rasės abejotinos,–
+Čia svetima jauties.
+Lyg šaltas akmenėlis –
+Kur ežero dugne – –
+Lyg baltos kalnų gėlės
+Ties juoda bedugne.
+Nežino nieks, nematė nieks
+Ir negirdėjo nieks,–
+Kuždėjotės gyvatėmis
+Prie žėrinčios ugnies.
+Ir neminėk to vakaro,–
+Laivelio Nemune!
+Nuvysi tu pavasarį
+Baltąja ramune.
+Nei tėviškės, nei motinos!
+Neaiškios praeities,–
+Net rasės abejotinos,–
+Skraiduolė tu nakties.
+#endEil
+Solomeja Neris
+29 1 9 0 2 6 38 0 19 0 8 0 39 1 4 8 16 11 9 29 22 3 14 33 0 25 13 1 0 9 0 4 
+254
+KAI NUMIRSIU
+Kai numirsiu,– tik nekaskit,
+Tik nevežkit į kapus! –
+Į skaisčias liepsnas įmeskit –
+Tegu laužas karstu bus!
+Tegu kyla juodi dūmai
+Dangaus skliautais mėlynais –
+Ir bejausmis mano kūnas
+Tepavirsta pelenais!
+Dulkes tas paleiskit vėjam,
+Laisvės paukščiam ant sparnų –
+Tegu neša, tegu sėja
+Dainą mano pelenų!
+#endEil
+Solomeja Neris
+35 1 2 0 2 5 18 0 4 0 5 0 28 3 2 4 17 10 10 16 3 8 6 29 0 16 18 2 2 4 0 2 
+495
+RAUDONA ROŽĖ
+Šią naktį pas mane Karmen atėjo,
+Juoda Karmen – su degančiom akim.
+Ji būrė man – iš kortų spėjo
+Ir gąsdino nelemta ateitim.
+Krūtinė jos karštai alsavo –
+Virpėjo rožė kruvina:
+– Klajonė – gyvenimas tavo...
+Ir meilė – tavoji daina.
+O kas paskui? – Paimki šitą rožę,
+Tai sužinosi, kas dai bus – –
+Viens burtų žodis laimę mums atvožia,
+Ir vienas žodis – atveria kapus.
+Karmen dainavo meilę pražūtingą,–
+Gyvenimą be prietarų ir baimės.
+Ir siūlė rožę man – raudoną, nuodėmingą,–
+Užburtą širdimi ir laime.
+...O su naktim išnyko ir Karmen – –
+Tik jos aistri daina liūdnai skambėjo.
+Ir keistą dovaną paliko man:
+Raudoną rožę.– laimės nežadėjo...
+#endEil
+Solomeja Neris
+60 11 7 0 1 17 21 5 15 0 6 0 62 1 3 11 22 11 27 34 34 9 34 27 0 22 16 3 5 13 0 12 
+502
+SUDEGINKIT MANE
+Sudeginkit mane – kaip raganą!
+Sudeginkit mane žėruojančiame lauže!
+Nesudrebėsiu aš nė vienu sąnariu!
+Nė lūpų nepraversiu – klausit ar neklausit.
+Tiktai žiūrėsiu, kaip saulutė leidžias,–
+Kaip glosto veidą man jos švelnūs pirštai...
+Ir nežinosit jūs – kodėl aš jums atleidžiu,–
+ Ir nesuprasit jūs – kodėl šypsodamos aš mirštu.
+Bučiavo žemę vasaros dangus – –
+O žemė nuotaka saldžiai sapnavo.
+Ir tolimosios žvaigždės dainavo meilę mūs,–
+Ir mūsų žvaigždės akys laime spinduliavo.
+Dabar – sudeginkit mane – kaip raganą,–
+Kur žemę nušvietė dangaus ugnim!
+Jums palieku aš jūsų pragarą!
+Dangus tegul išnyksta su manimi 
+#endEil
+Solomeja Neris
+59 5 3 0 2 20 30 3 12 0 15 0 56 0 3 7 18 18 21 34 19 13 21 43 0 20 33 3 8 12 0 14 
+297
+VALKATA
+Jis valkata! Jis– paskutinis!
+Šaukia žmonės. O aš vos gyva.
+Nuo jo žvilgsnių man dega krūtinė,–
+Nuo jo žodžių man svaigsta galva.
+Kaip sacharose vėjas laisvūnas –
+Visagalė jo smuiko daina.
+Ji nupirko ir sielą, ir kūną
+Savo magiškų burtų kaina.
+Panorėk! – aš nueisiu į dangų!
+Ar nužengsiu juodan pragaran!
+Dėl tavęs – ne vien mirt pasirengus,–
+Bet gyvent ir nemirt amžinai!
+#endEil
+Solomeja Neris
+44 2 2 1 0 6 11 1 6 0 12 1 32 1 2 8 12 8 8 26 15 6 14 23 0 11 13 5 3 14 0 6 
+671
+SKAUSMAS
+Kodėl tu ateini tą valandą,
+Kada aplinkui juokas, užmiršimas ir daina?
+Kodėl tiktai mane tu išskiri tada,
+Kad aš kentėčiau ir dainuočiau verkdama?
+Rymojau aš prie pianino –
+ Vidurnakčio puota aplink skambėjo.
+Ir jis atėjo, apkabino –
+Ir demono akim akysna pažiūrėjo.
+Nebegaliu berūpestingai žaisti.
+Išbėgau – ašaros netinka ten, kur juokas.
+O šaltas skausmo demone, myliu tave!
+Tave, kurį visi prakeikė.
+Sparnuotas juodas kunigaikšti!
+Klaupiuosi prieš tave, o skausme!
+Tu pervėrei mane giliausiomis bedugnėm
+Ir nunešei mane aukščiausion aukštumon.
+Tylu. Juodi sparnai plasnoja.–
+Galingas milžine, visa aš tavo,
+Visa, lig paskutinės ašaros!
+Per tave pajutau, jog aš esu.
+Kodėl, kodėl tu ateini tą valandą,
+Kada aplinkui juokas, užmiršimas ir daina?
+Kodėl tiktai mane tu išskiri tada,
+Kad aš kentėčiau ir dainuočiau verkdama? 
+#endEil
+Solomeja Neris
+102 4 6 0 6 25 35 0 15 0 10 0 81 1 4 13 42 20 23 41 36 19 29 38 0 35 47 0 2 14 0 5 
+316
+KAIP IR TAS VĖJAS
+Vasara buvo... Jūra kvatojo.
+Buvo saulutė – buvo draugai.
+Dabar tu vienas. Eini, sustoji...
+Tarsi paklydai ar pavargai.
+Eini, sustoji... Skundžias alėjos,
+Kaip jos nemėgsta drėgno rudens.
+Klausais: gal meilė pamario vėjuos
+Balta žuvėdra pasivaidens.
+Sumerk blakstienas – ir aš ateisiu,–
+Tau išbučiuosiu plaukus melsvus –
+Be pareigos ir be jokių teisių –
+Kaip ir tas vėjas – jaunas, gaivus.
+#endEil
+Solomeja Neris
+48 0 9 0 1 8 15 0 9 0 7 0 35 0 1 11 11 10 5 10 15 9 17 35 0 14 25 2 1 14 0 2 
+304
+PER LŪŽTANTĮ LEDĄ
+Pavasaris žemę jau veda –
+(O mane kas ves?)
+Aš bėgu per lūžtantį ledą
+Į jo vestuves.
+Kukliais žibuoklėlių žiedais ji
+Kasas nusagstys.–
+Ar ilgai tu būsi bevaisė,
+O žeme skaisti?
+Saulėtų krantų pasigedo
+Širdis. Nebgaliu.
+Ir bėgu per lūžtantį ledą
+Skenduolių keliu.
+Jei žūsiu,– draugai, nesakykit:
+Per greit pailsau...
+Aš troškau vien džiaugsmą
+pavytiPasauliui ir sau – – –
+#endEil
+Solomeja Neris
+36 4 6 0 0 10 25 1 5 0 9 0 33 4 3 4 12 16 4 10 7 9 13 27 0 16 20 4 5 8 0 9 
+315
+NAKTĮ NYKIĄ
+Lyg vaiduoklis naktį nykią
+Vaidinuosi: –
+Kaip tu savo pavainikį
+Uždainuosi?
+Neraudok, širdies vaikeli,
+Liūlia liūlia!
+Oi, nebark manęs, tėveli,
+Oi, motule!..
+Neramus širdies vaikelis
+Neužmiega.–
+Šešėliuotas mano kelias –
+Kur jis bėga?
+Šaltas šiurpas nubučiavo
+Jauną veidą.–
+Ilsta rankos. Naštą savo
+Jau paleido – –
+Šalnos gėlos širdį gelia
+Naktį nykią.–
+Kas mylės tave bedalį
+Pavainikį?
+#endEil
+Solomeja Neris
+41 6 4 0 1 10 18 1 5 0 5 0 41 7 5 3 18 20 6 21 16 5 9 21 0 11 16 0 2 12 0 2 
+421
+AKMENĖLIS TURI ŠALTĄ ŠIRDĮ
+Leisk man prie ugnelės pasišildyt,–
+Nevaryk į vieškelio audras!
+Akmenėlis turi šaltą širdį –
+Ir mažos našlaitės nesupras.
+Skrenda gervės, skrenda mano dienos,–
+Kad galėčiau ranką joms paduot!
+Aš skurdi – skurdesnė už rugienas.–
+Begalinė širdgėla – ruduo.
+Iki žemės vėtra beržą lanksto,–
+Ne berželį – o veikiau mane.–
+Šiandie dar minu aš tavo slenkstį,–
+O rytoj – tamsioji nežinia.
+Leisk man prie ugnelės pasišildyt,
+Nevaryk į rudenio audras!
+Akmenėlis turi šaltą širdį,–
+Kas tą širdgėlą rudenę besupras?
+#endEil
+Solomeja Neris
+44 7 4 0 1 21 34 1 14 0 8 0 40 7 5 3 19 21 12 29 14 7 32 32 0 17 21 0 0 7 0 6 
+1 468
+AČIŪ TAU, VIEŠPATIE
 Ačiū Tau, Viešpatie, jogei mylėdamas
 Sergėjai mano gyvenimo rytą:
 Argi tai sykį per daug patikėdamas
@@ -84,9 +826,7 @@ Skambančią giesmę ir širdį jausmingąją
 Argi ne kryžkeliais kartais aikvojau?
 Kaltas! Bet teisi taip daugel kentėjusį,
 Tavo gerybėje viltį padėjusį!..
-#endEil
-62 14 9 0 2 15 37 4 16 0 19 0 64 7 8 18 20 16 18 24 18 9 17 38 0 31 25 0 3 15 3 8 
-903
+TAIP NIEKAS TAVĘS NEMYLĖS
 Jau niekas tavęs taip giliai nemylės,
 Kaip tavo nuliūdęs poeta!
 Ar kas ir kančių tiek pakelti galės
@@ -122,10 +862,12 @@ Ir rūmai, ir sodžių sermėga.
 Poetams kitiems numylėta ranka
 Iš liaurų vainiką nupynė,
 Tu jį nors atmint ar atminsi kada?
-Tu, jo numylėta tėvyne!
+Tu, jo numylėta tėvyne! 
 #endEil
-108 16 7 0 3 34 51 5 30 0 22 0 107 8 14 21 44 27 29 44 36 26 46 55 0 53 42 16 5 21 0 17 
-690
+Maironis
+176 30 16 0 6 49 92 10 47 0 41 0 176 15 23 39 65 44 48 70 54 37 63 96 0 88 68 16 9 38 3 25 
+708
+AŠ NORĖČIAU PRIKELTI
 Aš norėčiau prikelti nors vieną senelį
 Iš kapų milžinų
 Ir išgirsti nors vieną, bet gyvą žodelį
@@ -153,10 +895,12 @@ Apie ką jos dūmoja?
 Veltui mano troškimai prikelti senelį
 Iš kapų milžinų!
 Ir išgirsti nors vieną, bet gyvą žodelį
-Iš senovės laikų!
+Iš senovės laikų! 
 #endEil
-72 12 14 0 7 17 42 0 10 0 16 0 90 7 4 11 34 27 14 40 36 17 33 51 0 35 25 24 7 19 1 10 
-737
+Maironis
+74 12 14 0 8 17 43 0 11 0 16 0 93 7 4 11 35 28 14 41 37 18 35 51 0 36 26 24 7 19 1 10 
+744
+POEZIJA
 Išvydau ją, kai vakarinė
 Žvaigždė skaisčiai danguos mirgėjo,
 O marių erdvė begalinė
@@ -188,10 +932,12 @@ Ir ausį dainomis pripildė.
 Gražus regėjimas prapuolė,
 Ir kraujas gyslose sustingo!..
 O vis negal širdis-varguolė
-Užmiršti veido paslaptingo.
+Užmiršti veido paslaptingo. 
 #endEil
-87 8 10 0 3 28 23 4 28 2 26 0 85 5 10 20 22 24 29 33 42 14 47 63 0 27 40 6 3 18 1 13 
-438
+Maironis
+88 8 10 0 3 28 24 4 28 2 26 0 86 5 10 21 22 24 29 33 43 15 47 63 0 27 40 6 3 18 2 13 
+443
+POETA
 „Sudieu“ juk kartkartėms girdėjau
 Gal iš krūtinės nešaltos;
 Bet vieno, vieno negalėjau
@@ -211,10 +957,12 @@ Būrys, apstojęs skausmo vyrą:
 Raminas skurdžios jų krūtinės
 Balsais, kaip balsimo lašu:
 Patsai ramumo nepažinęs,
-Kitiems išganymą nešu.
+Kitiems išganymą nešu. 
 #endEil
-50 3 8 0 1 15 25 4 12 0 9 0 48 0 6 8 16 11 17 27 29 12 24 36 0 21 23 5 3 8 0 7 
-768
+Maironis
+51 3 8 0 1 15 26 4 12 0 9 0 48 0 6 8 16 11 17 27 30 13 24 36 0 22 23 5 3 8 0 7 
+781
+IŠ DANUTĖS AKIŲ
 Iš Danutės akių tai dangus, tai naktis;
 Jų gelmė – amžina paslaptis!
 Pasakyk, pasakyk, kas per galia-dvasia
@@ -242,10 +990,12 @@ Atgimimo tau giesmę nešu.
 Aš tau giesmę nešu ištvermės ir vilties
 Po sunkios vakarykščios nakties!
 Daug kentėjus Danute, užmirški vargus!
-Juk tu – mano naktis ir dangus.
+Juk tu – mano naktis ir dangus... 
 #endEil
-113 2 10 0 6 22 43 4 13 0 22 0 100 4 12 12 48 28 27 39 26 22 24 60 0 36 38 8 1 22 0 11 
-534
+Maironis
+115 2 10 0 6 23 43 4 14 0 22 0 102 4 12 12 49 28 27 40 26 22 24 61 0 37 39 9 1 22 0 11 
+549
+TAIP MAŽA PARAMOS
 Taip maža paramos ant žemės:
 Daug verksmo, skausmo ir kančios!
 Retai dangus, rūsčiai aptemęs,
@@ -269,348 +1019,339 @@ Sugrįžk, sugrįžki, valanda,
 Kad skruostus ašara suvilgęs,
 Paliesiu lyrą kaip tada,
 Kai žėrė jaunas įkvėpimas,
-Jos balsui pritarė jaunimas
+Jos balsui pritarė jaunimas. 
 #endEil
-81 4 8 0 5 15 22 6 15 0 13 0 54 4 2 8 24 18 23 29 16 14 25 54 0 25 26 4 2 11 0 12 
-407
-Ten, kur Nemunas banguoja
-Tarp kalnų, lankų,
-Broliai vargdieniai dejuoja
-Nuo senų laikų.
-Ten močiutė užlingavo
-Raudomis mane,
-Į krūtinę skausmą savo
-Liejo nežinia.
-Girios ūžė ten, minėjo
-Praeities laikus,
-Kai lietuvis netikėjo,
-Jog belaisviu bus.
-Ten apleistos pilys griūva
-Ant kalnų aukštai;
-Milžinų ten kaulai pūva,
-Verkia jų kapai.
-Ten užaugau, iškentėjau
-Aš kančias visas
-Ir pamėgau, pamylėjau
-Vargdienių dūmas.
-O tos dūmos vargdieninės
-Griaužia kai kada,
-Tartum rūdys geležinės
-Amžina žaizda
+Maironis
+86 4 8 0 5 15 22 6 15 0 13 0 55 4 2 8 24 18 25 29 17 16 26 55 0 26 26 4 2 11 0 13 
+949
+ŠALIN, DŪSAVIMAI
+Šalin, nusiminę dūsavimai skaudūs!
+Jie silpnina dvasią paikai.
+Ar mums kaip mergaitei raudoti nuraudus,
+Nors spaudžia nelaimės, vargai?
+Ne taip mūsų bočiai didvyriai kariavo,
+Kai, gindami brangiąją Lietuvą savo,
+Jų ėjo į kovą pulkai.
+Kam trokšti pradengti tą uždangą-girią,
+Kur slepia kelius ateities?
+Juk Dievas teisingas ir valdo, ir skiria
+Laikus iš aukštos paslapties!
+Kas bijo šešėlio, – šešėlius temato,
+Tas Dievo galybės tikrai nesuprato:
+Naktis jam visur be vilties.
+Kaip vyrai be baimės mes stokim į kovą,
+Kaip milžinas amžių baisus,
+O meilė tėvynės tebūnie vadovu
+Ir Dievas, kurs valdo visus!
+Darbuosmės ir eisme, kur šaukia tėvynė!
+Mylėsme ir gerbsme, ką proseniai gynė!
+Tėvynė iš miego pabus.
+Ne kumštė tevaldo pasaulį šiandienų,
+Bet meilė, tikyba, šviesa!
+Ne kardui abišaliam kalsime plieną:
+Jo apmaudo galia – maža.
+Kas kardu kariauja, nuo kardo ir žūva,
+Ar maž po milžinkapius kaulų jau pūva?
+Kita ateitis artima!
+Į darbą, į darbą, kaip Dievas įsakė,
+Su tekančia saule vilties!
+O Tėvas aukščiausis, kurs amžiais mus plakė,
+Paguodžiančią ranką išties.
+Su Dievo pagalba ir mokslu šarvuoti
+Tik stokim į darbą už laisvę kovoti,
+Išnyks palydovai nakties! 
 #endEil
-57 1 4 0 2 10 25 1 9 0 12 0 48 1 3 10 18 16 13 31 17 8 16 24 0 19 23 8 7 11 1 9  
-680
-Neregėti aušros!.. Taip prailgo naktis!
-Beldžia vėjas į langą bailiai;
-Nebenori jau miego pabudus naktis,
-Nors negreit patekės spinduliai.
-Ilgos naktys žiemos; argi laukti dienos?
-Laikas keltis į darbą, šeimyna!
-Mūsų vyrai jauni šiaurio-vėjo n’atbos;
-Juos pavojai vilioja, masina.
-Bet ankstybi be Dievo palaimos darbai
-Neatneš, ko taip trokšta žmogus:
-Kas per savaitę nori darbuotis sveikai,
-Tenebūnie maldoj nerangus!
-Pasimelskim karštai, kad mus sergėtų Dievas
-Nuo nelaimių, nuo audrų, šalnų;
-Kad turėtų Apvaizdoje pasėlius, pievas,
-Juos apsaugotų nuo kirminų.
-Kad derėtų javai, jų nekirstų ledai,
-Kad kaimynai nekenktų pikti,
-Kad vienybėj gyventų šeimynos vaikai,
-Nesipeštų lyg sau svetimi.
-O paskui tekini su palaima maldos,
-Pasiskirstę kiekvienas sau dalį,
-Eisme dirbti ir vargt dėl bendrosios naudos,
-Kaip kas moka, numano ir gali!
+Maironis
+127 16 19 0 4 32 51 2 21 0 15 0 127 7 11 10 50 35 37 36 38 26 42 75 0 42 48 5 7 36 0 11 
+949
+ŠALIN, DŪSAVIMAI
+Šalin, nusiminę dūsavimai skaudūs!
+Jie silpnina dvasią paikai.
+Ar mums kaip mergaitei raudoti nuraudus,
+Nors spaudžia nelaimės, vargai?
+Ne taip mūsų bočiai didvyriai kariavo,
+Kai, gindami brangiąją Lietuvą savo,
+Jų ėjo į kovą pulkai.
+Kam trokšti pradengti tą uždangą-girią,
+Kur slepia kelius ateities?
+Juk Dievas teisingas ir valdo, ir skiria
+Laikus iš aukštos paslapties!
+Kas bijo šešėlio, – šešėlius temato,
+Tas Dievo galybės tikrai nesuprato:
+Naktis jam visur be vilties.
+Kaip vyrai be baimės mes stokim į kovą,
+Kaip milžinas amžių baisus,
+O meilė tėvynės tebūnie vadovu
+Ir Dievas, kurs valdo visus!
+Darbuosmės ir eisme, kur šaukia tėvynė!
+Mylėsme ir gerbsme, ką proseniai gynė!
+Tėvynė iš miego pabus.
+Ne kumštė tevaldo pasaulį šiandienų,
+Bet meilė, tikyba, šviesa!
+Ne kardui abišaliam kalsime plieną:
+Jo apmaudo galia – maža.
+Kas kardu kariauja, nuo kardo ir žūva,
+Ar maž po milžinkapius kaulų jau pūva?
+Kita ateitis artima!
+Į darbą, į darbą, kaip Dievas įsakė,
+Su tekančia saule vilties!
+O Tėvas aukščiausis, kurs amžiais mus plakė,
+Paguodžiančią ranką išties.
+Su Dievo pagalba ir mokslu šarvuoti
+Tik stokim į darbą už laisvę kovoti,
+Išnyks palydovai nakties! 
 #endEil
-87 2 15 0 0 25 47 2 10 0 15 0 83 3 9 13 34 23 21 43 36 20 29 54 0 35 27 14 2 18 1 3 
-675
-Miškas ūžia, verkia, gaudžia;
-Vėjas žalią medį laužo;
-Nuliūdimas širdį spaudžia,
-Lyg kad replėmis ją gniaužo.
-Girios tamsios, jūs galingos,
-Kur išnykote, plačiausios?
-Dienos praeities garsingos,
-Kur pradingote, brangiausios?
-Miškas verkia didžiagirių:
-Baisūs kirviai jas išskynė;
-Verkia Lietuva didvyrių:
-Jų neprikelia tėvynė.
-Kas mums praeitį grąžintų
-Ir jos garsą, ir jos galią?
-Kas tuos kaulus atgaivintų,
-Kur po žemėmis išbalę?
-* * *
-Tu girele, tu žalioji,
-Tu, kurią laikai išgriovė,
-Tu, lietuvi, kurs vaitoji...
-Jūs užmirštumėt senovę!
-Bet tas šaltas šiaurės vėjas
-Blaško žmones ir girelę
-Ir daužydamas užėjęs
-Mus iš miego kelte kelia.
-Mainos rūbai margo svieto:
-Silpnas kelia, tvirtas griūva;
-Nebijokim vargo kieto,
-Juk be jo galiūnai pūva!
-Atsibus tėvynės sūnūs,
-Didžią praeitį atminę;
-Pagimdys vargai galiūnus,
-Ugnimi uždegs krūtinę!
+Maironis
+127 16 19 0 4 32 51 2 21 0 15 0 127 7 11 10 50 35 37 36 38 26 42 75 0 42 48 5 7 36 0 11 
+949
+ŠALIN, DŪSAVIMAI
+Šalin, nusiminę dūsavimai skaudūs!
+Jie silpnina dvasią paikai.
+Ar mums kaip mergaitei raudoti nuraudus,
+Nors spaudžia nelaimės, vargai?
+Ne taip mūsų bočiai didvyriai kariavo,
+Kai, gindami brangiąją Lietuvą savo,
+Jų ėjo į kovą pulkai.
+Kam trokšti pradengti tą uždangą-girią,
+Kur slepia kelius ateities?
+Juk Dievas teisingas ir valdo, ir skiria
+Laikus iš aukštos paslapties!
+Kas bijo šešėlio, – šešėlius temato,
+Tas Dievo galybės tikrai nesuprato:
+Naktis jam visur be vilties.
+Kaip vyrai be baimės mes stokim į kovą,
+Kaip milžinas amžių baisus,
+O meilė tėvynės tebūnie vadovu
+Ir Dievas, kurs valdo visus!
+Darbuosmės ir eisme, kur šaukia tėvynė!
+Mylėsme ir gerbsme, ką proseniai gynė!
+Tėvynė iš miego pabus.
+Ne kumštė tevaldo pasaulį šiandienų,
+Bet meilė, tikyba, šviesa!
+Ne kardui abišaliam kalsime plieną:
+Jo apmaudo galia – maža.
+Kas kardu kariauja, nuo kardo ir žūva,
+Ar maž po milžinkapius kaulų jau pūva?
+Kita ateitis artima!
+Į darbą, į darbą, kaip Dievas įsakė,
+Su tekančia saule vilties!
+O Tėvas aukščiausis, kurs amžiais mus plakė,
+Paguodžiančią ranką išties.
+Su Dievo pagalba ir mokslu šarvuoti
+Tik stokim į darbą už laisvę kovoti,
+Išnyks palydovai nakties! 
 #endEil
-72 7 9 0 1 18 33 6 13 0 28 0 94 4 8 15 27 25 22 25 29 12 39 56 0 32 33 5 13 21 0 16 
-295
-Anksti rytą parašyta
-Daug naujų skambių vardų –
-Versiu knygą neskaitytą
-Nuo rytų lig vakarų.
-Žemė kryžkelėm žegnojas –
-Ji keleiviam be sparnų
-Pavergė dulkėtas kojas.
-Aš su saule ateinu.
-Anksti rytą baltos laumės
-Laimę lėmė man jaunai –
-Ir išbūrė, ir nulėmė
-Jauna būti amžinai.
-Saulė žeria anksti rytą
-Daug auksinių valandų.
-Rytą auksu parašytą
-Savo vardą aš randu. 
+Maironis
+127 16 19 0 4 32 51 2 21 0 15 0 127 7 11 10 50 35 37 36 38 26 42 75 0 42 48 5 7 36 0 11 
+697
+SPJAUKI, DRAUGUŽI, Į VISKĄ!
+Spjauki, drauguži, į visa, kas žiba!
+Švilpk, iki plikas esi!
+Plunksnos užaugs, gal padaigos jau kyba:
+Būsi kaip mulkiai visi.
+Ko ta jaunystė kvaili nesapnuoja!
+Plėsti dirvonus plačius?
+Sėdi ant knygų, rimtai prakaituoja,
+Takus užsimojus naujus!
+Lauk, iki išmintį visą suprasi!
+Laiko nedaugel praeis:
+Šiltą pastogę ir lizdą atrasi,
+Žiovaudams girsies svečiais.
+Metais iš grašių sermėgio nutukęs,
+Vargšo drovėsies namų:
+Pilvą išpūtęs, cigarą užrūkęs,
+Juoksies iš savo sapnų.
+Persų kilimais sau butą išklojęs,
+Sėdęs į kėdę minkštai,
+Vaišes skaitydamas, supdinsi kojas;
+Mintys plezdens neaukštai.
+Dieną prastūmęs, kaip Dievas beleido,
+Teisiojo migsi sapnu;
+Gal rūpestys koks ir sės tau ant veido,
+Mažas tačiau kaip ir tu.
+Spjauki, drauguži, į visa, kas žiba!
+Švilpk, iki plikas esi!
+Plunksnos paaugs, juk padaigos jau kyba:
+Būsi kaip mulkiai visi.
 #endEil
-45 8 5 0 0 7 12 1 11 0 6 0 22 0 10 6 14 12 10 18 5 4 19 18 0 16 18 8 2 8 0 5 
-395
-Skundžiasi smuikas – ašaros žydi.
-Ilgesiu virpa valso aidai:
-„Kai mylimasis namo palydi,
-Širdis plasnoja, dega veidai".
-Supasi žvaigždės plačioj padangėj,
-Supasi lapai mėnesienoj.
-Koks žiedas skečias jaunoj krūtinėj?
-Koks aidas virpa tavo dainoj?
-Mirtis – gyvybė, ašaros – džiaugsmas.
-Visur šešėliai kloja takus.
-Tik tavo dainos – mano pasaulis,
-Tik tavo akys – mano dangus.
-Vakaro smuiko mylimos dainos
-Sapnais sūpuoja ilgas naktis,
-Kad nenutiltų, kad nenumirtų,
-Kol mano ryto saulė prašvis. 
+Maironis
+83 8 8 1 3 20 24 8 8 0 18 0 97 5 7 15 43 23 16 24 24 32 22 82 0 26 45 5 6 19 2 10 
+1 745
+AŠAROS TARP JUOKŲ
+Kas man darbo, jog tėvynę
+Spaudžia sopuliai,
+Jog piktieji, ją pamynę,
+Žudo taip baisiai.
+Duok stiklelį šen, brolyti,
+Duok užliet vargus,
+Šimtą metų pamatyti
+Duota mums nebus!..
+Kas man darbo, jog bažnyčia
+Verkia kruvinai,
+Jog ją žeidžia tarsi tyčia
+Patys jos vaikai.
+Užrūkyti duok, brolyti,
+Dūmai teužsklis.
+Reikia dūmais uždaryti
+Sąžinei akis...
+Kas man darbo, jog jaunimą
+Žudo mums gudai,
+Jog per mokslą – apjakimą
+Duoda vien tiktai.
+Žalią stalą trauk, brolyti,
+Vintui skleisk būbnus.
+Dienos ilgos!.. Kas daryti,
+Ilgu taip nebus!..
+Kas man, jog vaikus bedieviai
+Žudo amžinai,
+Jog jau žalią medžio žievę
+Kerta kirminai.
+Popai į cerkves, brolyti,
+Gena mūs vaikus...
+Bet vienam kas bedaryti?!.
+Kaip sau bus, tebus!..
+Kas man, jog jau pasileido
+Kaltės kaip vanduo.
+Jog ant žydinčiojo veido
+Gelsta jau ruduo...
+Kas man darbo, tai, brolyti...
+Juk žingsnius vaikų
+Ir vedžioti, ir taisyti –
+Darbas kunigų!..
+Kas man darbo, jogei vargšo
+Niekas neužstos,
+Jog lopais iš tolo barkšo,
+Miršta be plutos...
+E, jau vargšai tie, brolyti,
+Visada jie bus...
+Liepk vežėjui užkinkyti,
+Trauksme į svečius!..
+Kas man darbo, jog barzdočiai
+Žydai siurbia mus,
+Jog jų geismams ir jų sočiai
+Vis gana nebus...
+E, be žydo jau, brolyti,
+Apsisuks galva,
+Juk ar pirkti, ar taisyti
+Kas padės tada?!.
+Sako, gelbėti draugiją
+Reikia jau gyvai,
+Kas man darbo, tekirmija,
+Kad tik man gerai...
+Kas man darbo, tai, brolyti,
+Suvadink šunis,
+Trauksme kiškių sau vaikyti,
+Kai tik kiek prašvis...
+Sako: kibkim į tvėrimą
+Dėl tėvų šalies,
+Sako – be pasišventimo
+Saulė jai nešvies...
+Kas man darbo, juk, brolyti,
+Atsiras tokie,
+Kur norės save žudyti...
+Tepasišvenč’ jie.
+Sako, sentėvių liežuvis
+Tai dvasia tautos;
+Sako, išgama lietuvis
+Be tėvų kalbos...
+Kas man ta kalba, brolyti,
+Kuo ji man brangi?!
+Dar čia būru palaikyti
+Gal mane visi...
+Sako, mokslas – tai galybė,
+Ginklas ir viltis;
+Sako, duos mums jis didybę,
+Atidengs akis.
+Kam tas mokslas man, brolyti,
+Proto man gana,
+Kas daug nori išmanyti,
+Tam apsvaigs galva!..
+Kas man darbo, kad ir rėkia
+Ant manęs kiti,
+Juk ir jie, aukštai išlėkę,
+Nusileis visi.
+Miegas lenkia man, brolyti,
+Galvą jau seniai;
+Eikim sau pasivartyti
+Lovoje saldžiai.
+*
+Ei, nutilkit, kanklės skardžios!
+Leiskit, teužmigs! –
+Jums tik dūmos, giesmės griaudžios,
+O juokai netiks... 
 #endEil
-61 0 1 0 2 18 10 0 7 0 8 0 48 0 8 10 20 15 14 21 26 13 12 44 0 13 16 2 2 12 0 6 
-235
-Vieną akimirką mano jaunystė,
-Lyg žaibas jaunas –
-Širdį ugniniais sparnais suvystė,
-Užliejo kraują.
-Ir mano dienos – žėrinčios ašaros
-Laumių akyse,–
-Ir jų kaip vėjų – vėjų pavasario
-Nesuvaikysi!
-Ir nebijau aš girioj paklysti,
-Jūroj paskęsti,–
-Nes man žadėjo žvaigždė jaunystė
-Niekad negesti. 
+Maironis
+226 13 51 1 8 60 81 6 17 0 46 0 220 4 36 47 106 57 62 68 96 29 75 140 0 98 83 10 7 47 1 31 
+830
+MŪZOS PAVOJUJE
+Nusiminė giedro Parnaso dievai,
+Pažvelgę į Nemuno šalį kreivai,
+Ir jiems mat parūpo rytojus:
+Poetų taip daug Lietuvoj atsirado,
+Kad ėmė net mūzos begąsčioti bado,
+Gausingai svirpliams sugiedojus.
+Apstojo Apòliną mūzų būrys
+Ir kad kakarinę griaudžiai užvarys!..
+Net kruptelė tėvas poetų:
+„Kam talentus, girdi, sėjoji ant vėjo?
+Juk giesmes bemegzti net tie panorėjo,
+Kuriems šluoti gatvę reikėtų!“
+Apòlinas gynės, nedavęs visai
+Kai kam net pauostyti lyros jisai,
+Prisiekdamas per Zeuso blakstėnus;
+Bet mūzų nutildyt pigiai nepavyko.
+Ant galo, tamsiai apsiniaukęs, supyko,
+Lyg audrai apdengus Atėnus.
+„Prisiekiu: tos usnys ilgai nekeros!
+Nei ritmo, nei rimo, nei prozos geros!
+Poezijos, girdžiat, nei lašo!..
+Tik ko ožkablauzdis Satyras sutingo?
+Turėtų ik sočiai sau darbo naudingo!
+Kodėl ant kaktos jiems nerašo?“
+Satyras ant lyros patsai kai kada
+Uždrožia!.. net giriose juokias gaida!
+Iš apmaudo, būdavo, kerta.
+Bet ar tai per daugel šiandieną kvailystės,
+Ar gal jam pagailo poetų jaunystės?
+Šaipydamas tarė: „Neverta!“
 #endEil
-30 3 2 0 1 5 10 1 8 0 5 0 29 1 7 13 9 4 5 17 10 5 12 21 0 6 10 4 1 7 0 6 
-164
-Mūsų dienos – kaip šventė,
-Kaip žydėjimas vyšnios,–
-Tai skubėkim gyventi,
-Nes prabėgs – nebegrįš jos!
-Tai skubėkime džiaugtis!–
-Vai, prabėgs – nebegrįš jos!
-Mūsų dienos – kaip paukščiai,
-Kaip žydėjimas vyšnios. 
+Maironis
+101 3 10 0 2 28 53 5 17 0 27 0 88 2 17 18 31 23 23 42 55 31 43 67 0 54 37 7 7 16 9 7 
+860
+LIETUVA BRANGI
+Graži tu, mano brangi tėvyne,
+Šalis, kur miega kapuos didvyriai:
+Graži tu savo dangaus mėlyne!
+Brangi: tiek vargo, kančių prityrei.
+Kaip puikūs slėniai sraunios Dubysos,
+Miškais lyg rūta kalnai žaliuoja;
+O po tuos kalnus sesutės visos
+Griaudžiai malonias dainas ringuoja.
+Ten susimąstęs tamsus Nevėžis
+Kaip juosta juosia žaliąsias pievas;
+Banguoja, vagą giliai išrėžęs;
+Jo gilią mintį težino Dievas.
+Kaip puikūs tavo dvarai, tėvyne,
+Baltai iš sodų žalių bekyšą!
+Tik brangią kalbą tėvų pamynę
+Jie mūsų širdis mažai ką riša.
+Kaip linksma sodžiuos, kai vyturėlis
+Jaukiai pragysta, aukštai iškilęs,
+Ar saulė leidžias, ir vakarėlis
+Ramumą neša, saldžiai nutilęs.
+Bažnyčios tavo ne tiek gražybe,
+Ne dailės turtais, ne auksu žiba;
+Bet dega meilės, maldos galybe,
+Senųjų amžių gyva tikyba.
+Kai ten prieš sumą visi sutarę
+Griaudžiai užtraukia „Pulkim ant kelių”,
+Jausmai bedievio vėl atsidarę
+Tikėti mokos nuo tų vaikelių.
+Graži tu, mano brangi tėvyne,
+Šalis, kur miega kapuos didvyriai!
+Ne veltui bočiai tave taip gynė,
+Ne veltui dainiai plačiai išgyrė!
+
 #endEil
-14 0 6 0 1 5 10 0 7 0 6 0 20 2 5 4 9 0 6 9 6 7 4 16 0 5 4 2 2 5 0 3 
-459
-Gyvenimas mano – vėjas palaidas!
-Kaip sakalas skrieja per tyrus laukus.
-Gyvenimas mano – pavasario aidas.
-Gyvenimas mano – tai sapnas klaikus.
-Aš myliu gyvenimą – jauną, ugningą,
-Kaip myli pavasarį lauko gėlė!
-Aš myliu gyvenimo džiaugsmą aistringą,–
-Stipriai – kaip jaunystė temoka mylėt.
-O žeme, o motina mano brangioji!
-Mielai tu puošiesi žiedais ir krauju.–
-Jei burtus tavuosius pakeistų man rojum,
-Tai būtų ilgu man, ilgu man be jų!
-Aš myliu tave, gaivalingas pasauli!
-Galbūt kaip žvėris tu mane sudraskysi?–
-Vis tiek – aš ir mirsiu šypsodamos saulei,
-Ir saulė degs mano akyse! 
-#endEil
-68 5 5 0 0 7 22 0 7 0 17 0 54 1 15 9 16 19 27 23 18 14 17 40 0 18 29 3 2 13 0 4 
-210
-O juokis, gyvenime, juokis
-Pajaco juoku!
-Tegul mano akys nemato,
-Kas juoda, klaiku...
-Kur bus ta vieta, nežinau aš,
-Ir tu nežinai,–
-Kai trūks tavo juoko kaskada
-Ir dings amžinai.
-Bus gaila dienų man auksinių,
-Sidabro naktų,–
-Ir meilės, kur supo, svaigino
-Prie jūros krantų!
-#endEil
-28 0 3 1 0 5 10 0 1 0 5 0 24 0 2 7 17 4 6 15 15 3 10 15 0 9 16 4 2 4 0 3 
-348
-Be tėviškės, be motinos,
-Be jokios ateities,–
-Net rasės abejotinos,–
-Čia svetima jauties.
-Lyg šaltas akmenėlis –
-Kur ežero dugne – –
-Lyg baltos kalnų gėlės
-Ties juoda bedugne.
-Nežino nieks, nematė nieks
-Ir negirdėjo nieks,–
-Kuždėjotės gyvatėmis
-Prie žėrinčios ugnies.
-Ir neminėk to vakaro,–
-Laivelio Nemune!
-Nuvysi tu pavasarį
-Baltąja ramune.
-Nei tėviškės, nei motinos!
-Neaiškios praeities,–
-Net rasės abejotinos,–
-Skraiduolė tu nakties. 
-#endEil
-29 1 8 0 2 6 37 0 17 0 8 0 38 1 4 8 15 11 9 29 22 3 14 32 0 24 13 1 0 8 0 4 
-290
-Jis valkata! Jis– paskutinis!
-Šaukia žmonės. O aš vos gyva.
-Nuo jo žvilgsnių man dega krūtinė,–
-Nuo jo žodžių man svaigsta galva.
-Kaip sacharose vėjas laisvūnas –
-Visagalė jo smuiko daina.
-Ji nupirko ir sielą, ir kūną
-Savo magiškų burtų kaina.
-Panorėk! – aš nueisiu į dangų!
-Ar nužengsiu juodan pragaran!
-Dėl tavęs – ne vien mirt pasirengus,–
-Bet gyvent ir nemirt amžinai! 
-#endEil
-41 2 2 1 0 6 11 1 6 0 12 1 32 1 2 8 11 7 8 26 15 6 14 23 0 10 13 5 3 13 0 6 
-289
-Pavasaris žemę jau veda –
-(O mane kas ves?)
-Aš bėgu per lūžtantį ledą
-Į jo vestuves.
-Kukliais žibuoklėlių žiedais ji
-Kasas nusagstys.–
-Ar ilgai tu būsi bevaisė,
-O žeme skaisti?
-Saulėtų krantų pasigedo
-Širdis. Nebgaliu.
-Ir bėgu per lūžtantį ledą
-Skenduolių keliu.
-Jei žūsiu,– draugai, nesakykit:
-Per greit pailsau...
-Aš troškau vien džiaugsmą
-pavytiPasauliui ir sau – – – –
-#endEil
-35 3 6 0 0 9 23 1 5 0 9 0 33 3 3 4 12 14 4 9 7 8 12 27 0 14 20 4 4 8 0 8 
-289
-Pavasaris žemę jau veda –
-(O mane kas ves?)
-Aš bėgu per lūžtantį ledą
-Į jo vestuves.
-Kukliais žibuoklėlių žiedais ji
-Kasas nusagstys.–
-Ar ilgai tu būsi bevaisė,
-O žeme skaisti?
-Saulėtų krantų pasigedo
-Širdis. Nebgaliu.
-Ir bėgu per lūžtantį ledą
-Skenduolių keliu.
-Jei žūsiu,– draugai, nesakykit:
-Per greit pailsau...
-Aš troškau vien džiaugsmą
-pavytiPasauliui ir sau – – – –
-#endEil
-35 3 6 0 0 9 23 1 5 0 9 0 33 3 3 4 12 14 4 9 7 8 12 27 0 14 20 4 4 8 0 8 
-305
-Lyg vaiduoklis naktį nykią
-Vaidinuosi: –
-Kaip tu savo pavainikį
-Uždainuosi?
-Neraudok, širdies vaikeli,
-Liūlia liūlia!
-Oi, nebark manęs, tėveli,
-Oi, motule!..
-Neramus širdies vaikelis
-Neužmiega.–
-Šešėliuotas mano kelias –
-Kur jis bėga?
-Šaltas šiurpas nubučiavo
-Jauną veidą.–
-Ilsta rankos. Naštą savo
-Jau paleido – –
-Šalnos gėlos širdį gelia
-Naktį nykią.–
-Kas mylės tave bedalį
-Pavainikį?
-#endEil
-40 5 4 0 1 10 18 1 5 0 5 0 40 6 4 3 16 20 6 19 16 5 9 21 0 10 16 0 2 12 0 2 
-398
-Leisk man prie ugnelės pasišildyt,–
-Nevaryk į vieškelio audras!
-Akmenėlis turi šaltą širdį –
-Ir mažos našlaitės nesupras.
-Skrenda gervės, skrenda mano dienos,–
-Kad galėčiau ranką joms paduot!
-Aš skurdi – skurdesnė už rugienas.–
-Begalinė širdgėla – ruduo.
-Iki žemės vėtra beržą lanksto,–
-Ne berželį – o veikiau mane.–
-Šiandie dar minu aš tavo slenkstį,–
-O rytoj – tamsioji nežinia.
-Leisk man prie ugnelės pasišildyt,
-Nevaryk į rudenio audras!
-Akmenėlis turi šaltą širdį,–
-Kas tą širdgėlą rudenę besupras?
-#endEil
-42 6 4 0 1 20 33 1 13 0 8 0 37 6 5 3 18 19 11 28 14 7 30 31 0 15 20 0 0 7 0 6 
-525
-Praeities gilų miegą kas pažadint galėtų?
-Kas jos dvasią atspėtų? Jai įkvėptų gyvybę?
-Kas suprasti pajėgtų tamsią amžių tolybę?
-Kas bent uždangos kraštą mums praskleisti mokėtų?
-Jos paveikslas kaip žaibas kartais dvasią pagauna,
-Kartais, rodosi, dvelki stebuklingas jos kvapas;
-Kartais prašneka širdžiai amžiais kerpėtas kapas
-Ir sušildo krūtinę ir vaidentuvę jauną.
-Štai senelis į kapą žengia, drebąs ir baltas;
-Man jo gaila: daug matęs, apsakyti daug gali...
-Ten po pilį apleistą vėjas šūkauja šaltas:
-Kas ten amžiais kalbėta, kad paskelbtų bent dalį!
-Nemuns matė kryžiuočius, plieno ginklais apkaltus:
-Apie žilą senovės apsakytų jis šalį. 
-#endEil
-82 10 10 0 1 14 24 5 10 0 14 0 51 5 6 10 31 23 12 20 14 24 17 52 0 35 15 9 2 11 0 10 
-324
-Sunkūs be galo laikai
-Lietuvą brangią suspaudė:
-Žūsta vergijoj vaikai;
-Daugel jų priešas iššaudė.
-Sodžių šimtai pelenuos
-Vėjo nešiojami sauso!..
-Žmonės tuščia aimanuos:
-Niekas negirdi, neklauso.
-Kur didžiavyriai tautos?
-Veltui jie mums besapnavos?
-Nėra jų! Gal kitados
-Bočių tėvai jais didžiavos!
-Daug išbėgiojo!.. Kai kas
-Rusijoje skursta iš bado;
-Mes gi sau laužom rankas,
-Likę našlaičiais be vado. 
-#endEil
-43 2 7 0 3 13 17 1 7 0 9 0 41 0 1 11 12 11 8 13 21 4 10 29 0 10 20 4 2 10 0 6 
+Maironis
+115 10 18 0 4 22 40 7 18 0 27 0 121 1 20 10 35 35 23 41 32 17 37 64 0 44 44 11 4 27 0 20 
